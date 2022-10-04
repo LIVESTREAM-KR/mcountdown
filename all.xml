@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/mcountdown/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-10-04T10:19:25.478Z</updated>
+    <updated>2022-10-04T11:16:14.396Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[CRAVITY가 알려주는 이번 주 엠카운트다운 라인업은? (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/29666560</id>
+        <link href="https://tv.naver.com/v/29666560"/>
+        <updated>2022-10-04T11:16:13.756Z</updated>
+        <content type="html"><![CDATA[01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🏁예〰️〰️싸〰️🏁'NCT 127'의 '질주 (2 Baddies)' 무대 | Mnet 220929 방송 (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/29566305</id>
@@ -206,12 +213,5 @@
         <link href="https://tv.naver.com/v/29385992"/>
         <updated>2022-09-25T18:30:14.680Z</updated>
         <content type="html"><![CDATA[01:52]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['SPECIAL STAGE' '스트릿 맨 파이터 부리더 계급'의 'LAW (Song by 윤미래, 비비(BIBI)' 무대 | Mnet 220922 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/29385991</id>
-        <link href="https://tv.naver.com/v/29385991"/>
-        <updated>2022-09-25T18:30:14.694Z</updated>
-        <content type="html"><![CDATA[01:37]]></content>
     </entry>
 </feed>
