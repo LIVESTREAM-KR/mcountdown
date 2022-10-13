@@ -2,8 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/mcountdown/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-10-13T09:26:11.404Z</updated>
+    <updated>2022-10-13T10:20:49.367Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA['COMEBACK' 청량 매력 'TAN'의 'Beautiful LIE' 무대 | Mnet 221013 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/29901082</id>
+        <link href="https://tv.naver.com/v/29901082"/>
+        <updated>2022-10-13T10:20:48.790Z</updated>
+        <content type="html"><![CDATA[03:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[확장형 걸그룹 '라임라잇'의 'StarLight' 무대 | Mnet 221013 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/29900951</id>
+        <link href="https://tv.naver.com/v/29900951"/>
+        <updated>2022-10-13T10:20:48.799Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[피어나는 장미 '미미로즈'의 'Rose' 무대 | Mnet 221013 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/29900942</id>
+        <link href="https://tv.naver.com/v/29900942"/>
+        <updated>2022-10-13T10:20:48.799Z</updated>
+        <content type="html"><![CDATA[03:22]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TREASURE(트레저)가 알려주는 이번 주 엠카운트다운 라인업은? (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/29814195</id>
@@ -192,26 +213,5 @@
         <link href="https://tv.naver.com/v/29566192"/>
         <updated>2022-09-29T11:15:30.149Z</updated>
         <content type="html"><![CDATA[03:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['데뷔 인터뷰' with 시우민 (XIUMIN) | Mnet 220929 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/29566066</id>
-        <link href="https://tv.naver.com/v/29566066"/>
-        <updated>2022-09-29T11:15:30.149Z</updated>
-        <content type="html"><![CDATA[03:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' 긍정 풀파워 'CRAVITY'의 'PARTY ROCK' 무대 | Mnet 220929 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/29566056</id>
-        <link href="https://tv.naver.com/v/29566056"/>
-        <updated>2022-09-29T11:15:30.152Z</updated>
-        <content type="html"><![CDATA[04:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[매력 여기 다~있으🎲 '엔믹스'의 'DICE' 무대 | Mnet 220929 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/29565941</id>
-        <link href="https://tv.naver.com/v/29565941"/>
-        <updated>2022-09-29T11:15:30.153Z</updated>
-        <content type="html"><![CDATA[02:57]]></content>
     </entry>
 </feed>
