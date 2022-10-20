@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2022-10-20T12:38:38.359Z</updated>
+    <updated>2022-10-20T13:57:31.447Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -17,7 +17,7 @@
         <id>https://tv.naver.com/v/30095651</id>
         <link href="https://tv.naver.com/v/30095651"/>
         <updated>2022-10-20T12:38:37.495Z</updated>
-        <content type="html"><![CDATA[05:18]]></content>
+        <content type="html"><![CDATA[05:15]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['HOT DEBUT' 독창적 서사 '이찬혁'의 '파노라마' 무대 | Mnet 221020 방송]]></title>
