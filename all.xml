@@ -2,8 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/mcountdown/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-04-13T09:13:23.681Z</updated>
+    <updated>2023-04-13T10:13:49.329Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA['COMEBACK' 드림노트(DreamNote) - Lemonade | Mnet 230413 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/34926042</id>
+        <link href="https://tv.naver.com/v/34926042"/>
+        <updated>2023-04-13T10:13:48.633Z</updated>
+        <content type="html"><![CDATA[03:09]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['컴백 인터뷰' with 케플러 (Kep1er) | Mnet 230413 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/34926041</id>
+        <link href="https://tv.naver.com/v/34926041"/>
+        <updated>2023-04-13T10:13:48.647Z</updated>
+        <content type="html"><![CDATA[03:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[첫사랑(CSR) - 빛을 따라서 (Shining Bright) | Mnet 230413 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/34925771</id>
+        <link href="https://tv.naver.com/v/34925771"/>
+        <updated>2023-04-13T10:13:48.651Z</updated>
+        <content type="html"><![CDATA[03:31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['SOPILER M' NCT DOJAEJUNG (NCT 도재정) | Mnet 230413 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/34925769</id>
+        <link href="https://tv.naver.com/v/34925769"/>
+        <updated>2023-04-13T10:13:48.653Z</updated>
+        <content type="html"><![CDATA[01:37]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CRAXY (크랙시) - NUGUDOM | Mnet 230413 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/34925451</id>
+        <link href="https://tv.naver.com/v/34925451"/>
+        <updated>2023-04-13T10:13:48.656Z</updated>
+        <content type="html"><![CDATA[03:31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ICHILLIN' (아이칠린) - Alarm | Mnet 230413 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/34925112</id>
+        <link href="https://tv.naver.com/v/34925112"/>
+        <updated>2023-04-13T10:13:48.656Z</updated>
+        <content type="html"><![CDATA[03:03]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뱀뱀(BamBam)이 알려주는 이번 주 엠카운트다운 라인업은? (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/34848683</id>
@@ -171,47 +213,5 @@
         <link href="https://tv.naver.com/v/34486153"/>
         <updated>2023-03-30T10:14:31.894Z</updated>
         <content type="html"><![CDATA[03:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NMIXX가 알려주는 이번 주 엠카운트다운 라인업은? (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/34415694</id>
-        <link href="https://tv.naver.com/v/34415694"/>
-        <updated>2023-03-28T10:14:50.978Z</updated>
-        <content type="html"><![CDATA[01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KAI(카이) - Rover | Mnet 230323 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/34270980</id>
-        <link href="https://tv.naver.com/v/34270980"/>
-        <updated>2023-03-23T11:11:36.447Z</updated>
-        <content type="html"><![CDATA[02:58]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' BOBBY - Drowning (feat. 가은 of 라임라잇) | Mnet 230323 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/34270978</id>
-        <link href="https://tv.naver.com/v/34270978"/>
-        <updated>2023-03-23T11:11:36.448Z</updated>
-        <content type="html"><![CDATA[03:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' 김재환 - 봄바람 | Mnet 230323 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/34270784</id>
-        <link href="https://tv.naver.com/v/34270784"/>
-        <updated>2023-03-23T11:11:36.450Z</updated>
-        <content type="html"><![CDATA[03:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CRAVITY - Groovy | Mnet 230323 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/34270589</id>
-        <link href="https://tv.naver.com/v/34270589"/>
-        <updated>2023-03-23T11:11:36.457Z</updated>
-        <content type="html"><![CDATA[03:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[체리블렛 (Cherry Bullet) - P.O.W! (Play On the World) | Mnet 230323 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/34270586</id>
-        <link href="https://tv.naver.com/v/34270586"/>
-        <updated>2023-03-23T11:11:36.459Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
     </entry>
 </feed>
