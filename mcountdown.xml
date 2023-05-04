@@ -2,9 +2,107 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2023-05-04T10:13:46.247Z</updated>
+    <updated>2023-05-04T11:11:41.967Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['1위' 세븐틴 (SEVENTEEN) - My Life | Mnet 230504 방송]]></title>
+        <id>https://tv.naver.com/v/35611500</id>
+        <link href="https://tv.naver.com/v/35611500"/>
+        <updated>2023-05-04T11:11:41.292Z</updated>
+        <content type="html"><![CDATA[03:42]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' BTOB (비투비) - 나의 바람 (Wind And Wish) | Mnet 230504 방송]]></title>
+        <id>https://tv.naver.com/v/35611316</id>
+        <link href="https://tv.naver.com/v/35611316"/>
+        <updated>2023-05-04T11:11:41.292Z</updated>
+        <content type="html"><![CDATA[04:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' iKON - U | Mnet 230504 방송]]></title>
+        <id>https://tv.naver.com/v/35611173</id>
+        <link href="https://tv.naver.com/v/35611173"/>
+        <updated>2023-05-04T11:11:41.292Z</updated>
+        <content type="html"><![CDATA[03:42]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NCT DOJAEJUNG - Perfume | Mnet 230504 방송]]></title>
+        <id>https://tv.naver.com/v/35611034</id>
+        <link href="https://tv.naver.com/v/35611034"/>
+        <updated>2023-05-04T11:11:41.294Z</updated>
+        <content type="html"><![CDATA[02:51]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['컴백 인터뷰' with BTOB (비투비) | Mnet 230504 방송]]></title>
+        <id>https://tv.naver.com/v/35610856</id>
+        <link href="https://tv.naver.com/v/35610856"/>
+        <updated>2023-05-04T11:11:41.294Z</updated>
+        <content type="html"><![CDATA[03:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['COMEBACK' LE SSERAFIM - UNFORGIVEN (feat. Nile Rodgers) | Mnet 230504 방송]]></title>
+        <id>https://tv.naver.com/v/35610699</id>
+        <link href="https://tv.naver.com/v/35610699"/>
+        <updated>2023-05-04T11:11:41.294Z</updated>
+        <content type="html"><![CDATA[04:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['COMEBACK' LE SSERAFIM - No-Return (Into the unknown) | Mnet 230504 방송]]></title>
+        <id>https://tv.naver.com/v/35610548</id>
+        <link href="https://tv.naver.com/v/35610548"/>
+        <updated>2023-05-04T11:11:41.294Z</updated>
+        <content type="html"><![CDATA[03:24]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EPEX(이펙스) - 여우가 시집가는 날 | Mnet 230504 방송]]></title>
+        <id>https://tv.naver.com/v/35610547</id>
+        <link href="https://tv.naver.com/v/35610547"/>
+        <updated>2023-05-04T11:11:41.294Z</updated>
+        <content type="html"><![CDATA[03:20]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Xdinary Heroes - Freakin' Bad | Mnet 230504 방송]]></title>
+        <id>https://tv.naver.com/v/35610404</id>
+        <link href="https://tv.naver.com/v/35610404"/>
+        <updated>2023-05-04T11:11:41.294Z</updated>
+        <content type="html"><![CDATA[03:08]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['HISTROY M' FIFTY FIFTY와 함께하는 4월의 엠카 핵심 요약.zip! | Mnet 230504 방송]]></title>
+        <id>https://tv.naver.com/v/35610299</id>
+        <link href="https://tv.naver.com/v/35610299"/>
+        <updated>2023-05-04T11:11:41.294Z</updated>
+        <content type="html"><![CDATA[03:44]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[앨리스(ALICE) - SHOW DOWN | Mnet 230504 방송]]></title>
+        <id>https://tv.naver.com/v/35610149</id>
+        <link href="https://tv.naver.com/v/35610149"/>
+        <updated>2023-05-04T11:11:41.294Z</updated>
+        <content type="html"><![CDATA[03:03]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[드림노트(DreamNote) - Lemonade | Mnet 230504 방송]]></title>
+        <id>https://tv.naver.com/v/35609997</id>
+        <link href="https://tv.naver.com/v/35609997"/>
+        <updated>2023-05-04T11:11:41.294Z</updated>
+        <content type="html"><![CDATA[02:59]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[xikers(싸이커스) - ROCKSTAR | Mnet 230504 방송]]></title>
+        <id>https://tv.naver.com/v/35609857</id>
+        <link href="https://tv.naver.com/v/35609857"/>
+        <updated>2023-05-04T11:11:41.294Z</updated>
+        <content type="html"><![CDATA[03:19]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['DEBUT' tripleS +(KR)ystal Eyes - Cherry Talk | Mnet 230504 방송]]></title>
+        <id>https://tv.naver.com/v/35609855</id>
+        <link href="https://tv.naver.com/v/35609855"/>
+        <updated>2023-05-04T11:11:41.297Z</updated>
+        <content type="html"><![CDATA[03:09]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[블리처스 - 마카레나(Macarena) | Mnet 230504 방송]]></title>
         <id>https://tv.naver.com/v/35609720</id>
@@ -116,103 +214,5 @@
         <link href="https://tv.naver.com/v/35389529"/>
         <updated>2023-04-27T11:10:36.868Z</updated>
         <content type="html"><![CDATA[04:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이채연 - KNOCK | Mnet 230427 방송]]></title>
-        <id>https://tv.naver.com/v/35389419</id>
-        <link href="https://tv.naver.com/v/35389419"/>
-        <updated>2023-04-27T11:10:36.871Z</updated>
-        <content type="html"><![CDATA[02:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['로드 투 엠카운트다운 STAGE' 위아이(WEi) - Spray | Mnet 230427 방송]]></title>
-        <id>https://tv.naver.com/v/35389414</id>
-        <link href="https://tv.naver.com/v/35389414"/>
-        <updated>2023-04-27T11:10:36.872Z</updated>
-        <content type="html"><![CDATA[03:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['COMEBACK' 다나카 (TANAKA) - 이곳에 추억이 있다 (with 김태원 of 부활) | Mnet 230427 방송]]></title>
-        <id>https://tv.naver.com/v/35389308</id>
-        <link href="https://tv.naver.com/v/35389308"/>
-        <updated>2023-04-27T11:10:36.874Z</updated>
-        <content type="html"><![CDATA[04:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DRIPPIN - SEVEN SINS | Mnet 230427 방송]]></title>
-        <id>https://tv.naver.com/v/35389194</id>
-        <link href="https://tv.naver.com/v/35389194"/>
-        <updated>2023-04-27T11:10:36.876Z</updated>
-        <content type="html"><![CDATA[03:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' EPEX (이펙스) - 여우가 시집가는 날 | Mnet 230427 방송]]></title>
-        <id>https://tv.naver.com/v/35389192</id>
-        <link href="https://tv.naver.com/v/35389192"/>
-        <updated>2023-04-27T11:10:36.876Z</updated>
-        <content type="html"><![CDATA[03:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' Xdinary Heroes - Freakin’ Bad | Mnet 230427 방송]]></title>
-        <id>https://tv.naver.com/v/35389089</id>
-        <link href="https://tv.naver.com/v/35389089"/>
-        <updated>2023-04-27T11:10:36.877Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TEMPEST(템페스트) - 난장(Dangerous) | Mnet 230427 방송]]></title>
-        <id>https://tv.naver.com/v/35388968</id>
-        <link href="https://tv.naver.com/v/35388968"/>
-        <updated>2023-04-27T13:16:29.277Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[xikers(싸이커스) - ROCKSTAR | Mnet 230427 방송]]></title>
-        <id>https://tv.naver.com/v/35388854</id>
-        <link href="https://tv.naver.com/v/35388854"/>
-        <updated>2023-04-27T10:14:40.971Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['SPOILER M' LE SSERAFIM (르세라핌) | Mnet 230427 방송]]></title>
-        <id>https://tv.naver.com/v/35388704</id>
-        <link href="https://tv.naver.com/v/35388704"/>
-        <updated>2023-04-27T10:14:40.981Z</updated>
-        <content type="html"><![CDATA[01:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['COMEBACK' 블리처스 - 마카레나(Macarena) | Mnet 230427 방송]]></title>
-        <id>https://tv.naver.com/v/35388594</id>
-        <link href="https://tv.naver.com/v/35388594"/>
-        <updated>2023-04-27T10:14:40.985Z</updated>
-        <content type="html"><![CDATA[03:24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['데뷔 인터뷰' with NCT DOJAEJUNG (엔시티 도재정) | Mnet 230427 방송]]></title>
-        <id>https://tv.naver.com/v/35388479</id>
-        <link href="https://tv.naver.com/v/35388479"/>
-        <updated>2023-04-27T10:14:40.999Z</updated>
-        <content type="html"><![CDATA[02:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['DEBUT' 주은 - Easy Breezy | Mnet 230427 방송]]></title>
-        <id>https://tv.naver.com/v/35388339</id>
-        <link href="https://tv.naver.com/v/35388339"/>
-        <updated>2023-04-27T10:14:41.000Z</updated>
-        <content type="html"><![CDATA[03:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['UP NEXT' 세븐틴(SEVENTEEN) | Mnet 230427 방송]]></title>
-        <id>https://tv.naver.com/v/35388188</id>
-        <link href="https://tv.naver.com/v/35388188"/>
-        <updated>2023-04-27T10:14:41.001Z</updated>
-        <content type="html"><![CDATA[00:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['DEBUT' XODIAC (소디엑) - THROW A DICE | Mnet 230427 방송]]></title>
-        <id>https://tv.naver.com/v/35388025</id>
-        <link href="https://tv.naver.com/v/35388025"/>
-        <updated>2023-04-27T10:14:41.001Z</updated>
-        <content type="html"><![CDATA[03:34]]></content>
     </entry>
 </feed>
