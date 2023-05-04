@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2023-05-04T12:23:19.387Z</updated>
+    <updated>2023-05-04T13:15:37.381Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -46,6 +46,13 @@
         <link href="https://tv.naver.com/v/35610856"/>
         <updated>2023-05-04T11:11:41.294Z</updated>
         <content type="html"><![CDATA[03:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['COMEBACK' LE SSERAFIM - UNFORGIVEN (feat. Nile Rodgers) | Mnet 230504 방송]]></title>
+        <id>https://tv.naver.com/v/35610699</id>
+        <link href="https://tv.naver.com/v/35610699"/>
+        <updated>2023-05-04T13:15:36.787Z</updated>
+        <content type="html"><![CDATA[04:06]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['COMEBACK' LE SSERAFIM - No-Return (Into the unknown) | Mnet 230504 방송]]></title>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/35389625"/>
         <updated>2023-04-27T11:10:36.868Z</updated>
         <content type="html"><![CDATA[03:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['컴백 인터뷰' with 세븐틴 (SEVENTEEN) | Mnet 230427 방송]]></title>
-        <id>https://tv.naver.com/v/35389529</id>
-        <link href="https://tv.naver.com/v/35389529"/>
-        <updated>2023-04-27T11:10:36.868Z</updated>
-        <content type="html"><![CDATA[04:05]]></content>
     </entry>
 </feed>
