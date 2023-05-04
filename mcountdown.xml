@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2023-05-04T09:12:39.615Z</updated>
+    <updated>2023-05-04T10:13:46.247Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[블리처스 - 마카레나(Macarena) | Mnet 230504 방송]]></title>
+        <id>https://tv.naver.com/v/35609720</id>
+        <link href="https://tv.naver.com/v/35609720"/>
+        <updated>2023-05-04T10:13:45.470Z</updated>
+        <content type="html"><![CDATA[03:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['컴백 인터뷰' with LE SSERAFIM (르세라핌) | Mnet 230504 방송]]></title>
+        <id>https://tv.naver.com/v/35609590</id>
+        <link href="https://tv.naver.com/v/35609590"/>
+        <updated>2023-05-04T10:13:45.475Z</updated>
+        <content type="html"><![CDATA[02:05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한음 - 첫사랑 | Mnet 230504 방송]]></title>
+        <id>https://tv.naver.com/v/35609491</id>
+        <link href="https://tv.naver.com/v/35609491"/>
+        <updated>2023-05-04T10:13:45.475Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XODIAC (소디엑) - THROW A DICE | Mnet 230504 방송]]></title>
+        <id>https://tv.naver.com/v/35609193</id>
+        <link href="https://tv.naver.com/v/35609193"/>
+        <updated>2023-05-04T10:13:45.476Z</updated>
+        <content type="html"><![CDATA[03:24]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이아영 - 마지막이란 걸 알면서도 | Mnet 230504 방송]]></title>
+        <id>https://tv.naver.com/v/35609034</id>
+        <link href="https://tv.naver.com/v/35609034"/>
+        <updated>2023-05-04T10:13:45.476Z</updated>
+        <content type="html"><![CDATA[03:25]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NCT DOJAEJUNG이 알려주는 이번 주 엠카운트다운 라인업은?]]></title>
         <id>https://tv.naver.com/v/35527039</id>
@@ -179,40 +214,5 @@
         <link href="https://tv.naver.com/v/35388025"/>
         <updated>2023-04-27T10:14:41.001Z</updated>
         <content type="html"><![CDATA[03:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[예빈나다 - 봄의 고백 | Mnet 230427 방송]]></title>
-        <id>https://tv.naver.com/v/35387863</id>
-        <link href="https://tv.naver.com/v/35387863"/>
-        <updated>2023-04-27T10:14:41.002Z</updated>
-        <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IVE가 알려주는 이번 주 엠카운트다운 라인업은?]]></title>
-        <id>https://tv.naver.com/v/35310009</id>
-        <link href="https://tv.naver.com/v/35310009"/>
-        <updated>2023-04-25T09:13:01.548Z</updated>
-        <content type="html"><![CDATA[01:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' 이기광 - Predator | Mnet 230420 방송]]></title>
-        <id>https://tv.naver.com/v/35161261</id>
-        <link href="https://tv.naver.com/v/35161261"/>
-        <updated>2023-04-20T11:11:09.445Z</updated>
-        <content type="html"><![CDATA[03:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' 이기광 - Favorite | Mnet 230420 방송]]></title>
-        <id>https://tv.naver.com/v/35161083</id>
-        <link href="https://tv.naver.com/v/35161083"/>
-        <updated>2023-04-20T11:11:09.446Z</updated>
-        <content type="html"><![CDATA[02:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['1위' IVE - I AM | Mnet 230420 방송]]></title>
-        <id>https://tv.naver.com/v/35160895</id>
-        <link href="https://tv.naver.com/v/35160895"/>
-        <updated>2023-04-20T11:11:09.446Z</updated>
-        <content type="html"><![CDATA[03:07]]></content>
     </entry>
 </feed>
