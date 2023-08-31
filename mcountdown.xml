@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2023-08-31T09:12:31.095Z</updated>
+    <updated>2023-08-31T10:12:56.409Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[TIOT(티아이오티) - 백전무패 (百戰無敗) | Mnet 230831 방송]]></title>
+        <id>https://tv.naver.com/v/39695354</id>
+        <link href="https://tv.naver.com/v/39695354"/>
+        <updated>2023-08-31T10:12:55.663Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['SPOILER M' RIIZE (라이즈) | Mnet 230831 방송]]></title>
+        <id>https://tv.naver.com/v/39695352</id>
+        <link href="https://tv.naver.com/v/39695352"/>
+        <updated>2023-08-31T10:12:55.663Z</updated>
+        <content type="html"><![CDATA[02:24]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LIMELIGHT (라임라잇) - MADELEINE | Mnet 230831 방송]]></title>
+        <id>https://tv.naver.com/v/39695014</id>
+        <link href="https://tv.naver.com/v/39695014"/>
+        <updated>2023-08-31T10:12:55.663Z</updated>
+        <content type="html"><![CDATA[03:11]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LE'V - A.I.BAE (Korean Ver.) | Mnet 230831 방송]]></title>
+        <id>https://tv.naver.com/v/39695011</id>
+        <link href="https://tv.naver.com/v/39695011"/>
+        <updated>2023-08-31T10:12:55.663Z</updated>
+        <content type="html"><![CDATA[02:51]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[STAYC(스테이씨)가 알려주는 이번 주 엠카운트다운 라인업은?]]></title>
         <id>https://tv.naver.com/v/39607207</id>
@@ -186,33 +214,5 @@
         <link href="https://tv.naver.com/v/39168552"/>
         <updated>2023-08-17T11:10:33.233Z</updated>
         <content type="html"><![CDATA[03:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[K-POP 시간 여행 특집] (여자)아이들 ((G)I-DLE) - 퀸카 (Queencard) | Mnet 230817 방송]]></title>
-        <id>https://tv.naver.com/v/39168436</id>
-        <link href="https://tv.naver.com/v/39168436"/>
-        <updated>2023-08-17T11:10:33.234Z</updated>
-        <content type="html"><![CDATA[02:58]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[K-POP 시간 여행 특집] 투모로우바이투게더 (TOMORROW X TOGETHER) - Sugar Rush Ride | Mnet 230817 방송]]></title>
-        <id>https://tv.naver.com/v/39168434</id>
-        <link href="https://tv.naver.com/v/39168434"/>
-        <updated>2023-08-17T11:10:33.236Z</updated>
-        <content type="html"><![CDATA[03:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[K-POP 시간 여행 특집] aespa (에스파) - Spicy | Mnet 230817 방송]]></title>
-        <id>https://tv.naver.com/v/39168232</id>
-        <link href="https://tv.naver.com/v/39168232"/>
-        <updated>2023-08-17T11:10:33.239Z</updated>
-        <content type="html"><![CDATA[03:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[K-POP 시간 여행 특집] ATEEZ(에이티즈) - BOUNCY (K-HOT CHILLI PEPPERS) | Mnet 230817 방송]]></title>
-        <id>https://tv.naver.com/v/39168056</id>
-        <link href="https://tv.naver.com/v/39168056"/>
-        <updated>2023-08-17T11:10:33.241Z</updated>
-        <content type="html"><![CDATA[03:20]]></content>
     </entry>
 </feed>
