@@ -2,22 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2023-08-31T10:12:56.409Z</updated>
+    <updated>2023-08-31T11:10:10.100Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[VANNER(배너) - PERFORMER | Mnet 230831 방송]]></title>
+        <id>https://tv.naver.com/v/39696530</id>
+        <link href="https://tv.naver.com/v/39696530"/>
+        <updated>2023-08-31T11:10:09.336Z</updated>
+        <content type="html"><![CDATA[02:56]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' H1-KEY (하이키) - SEOUL (Such a Beautiful City) | Mnet 230831 방송]]></title>
+        <id>https://tv.naver.com/v/39696529</id>
+        <link href="https://tv.naver.com/v/39696529"/>
+        <updated>2023-08-31T11:10:09.336Z</updated>
+        <content type="html"><![CDATA[03:26]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' H1-KEY (하이키) - 불빛을 꺼뜨리지 마 (Time to Shine) | Mnet 230831 방송]]></title>
+        <id>https://tv.naver.com/v/39696390</id>
+        <link href="https://tv.naver.com/v/39696390"/>
+        <updated>2023-08-31T11:10:09.336Z</updated>
+        <content type="html"><![CDATA[01:39]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['SPOILER M' BOYNEXTDOOR (보이넥스트도어) | Mnet 230831 방송]]></title>
+        <id>https://tv.naver.com/v/39696213</id>
+        <link href="https://tv.naver.com/v/39696213"/>
+        <updated>2023-08-31T11:10:09.339Z</updated>
+        <content type="html"><![CDATA[01:38]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[n.SSign (엔싸인) - Higher | Mnet 230831 방송]]></title>
+        <id>https://tv.naver.com/v/39696057</id>
+        <link href="https://tv.naver.com/v/39696057"/>
+        <updated>2023-08-31T11:10:09.340Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[tripleS LOVElution - Girls' Capitalism | Mnet 230831 방송]]></title>
+        <id>https://tv.naver.com/v/39696054</id>
+        <link href="https://tv.naver.com/v/39696054"/>
+        <updated>2023-08-31T11:10:09.346Z</updated>
+        <content type="html"><![CDATA[03:05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['컴백 인터뷰' with BAEKHO(백호) | Mnet 230831 방송]]></title>
+        <id>https://tv.naver.com/v/39695932</id>
+        <link href="https://tv.naver.com/v/39695932"/>
+        <updated>2023-08-31T11:10:09.348Z</updated>
+        <content type="html"><![CDATA[02:49]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TIOT(티아이오티) - 백전무패 (百戰無敗) | Mnet 230831 방송]]></title>
         <id>https://tv.naver.com/v/39695354</id>
         <link href="https://tv.naver.com/v/39695354"/>
         <updated>2023-08-31T10:12:55.663Z</updated>
         <content type="html"><![CDATA[03:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['SPOILER M' RIIZE (라이즈) | Mnet 230831 방송]]></title>
-        <id>https://tv.naver.com/v/39695352</id>
-        <link href="https://tv.naver.com/v/39695352"/>
-        <updated>2023-08-31T10:12:55.663Z</updated>
-        <content type="html"><![CDATA[02:24]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[LIMELIGHT (라임라잇) - MADELEINE | Mnet 230831 방송]]></title>
@@ -172,47 +214,5 @@
         <link href="https://tv.naver.com/v/39425256"/>
         <updated>2023-08-24T11:10:08.283Z</updated>
         <content type="html"><![CDATA[03:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[xikers(싸이커스) - HOMEBOY | Mnet 230824 방송]]></title>
-        <id>https://tv.naver.com/v/39425133</id>
-        <link href="https://tv.naver.com/v/39425133"/>
-        <updated>2023-08-24T11:10:08.285Z</updated>
-        <content type="html"><![CDATA[03:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['SPOILER M' NCT U (엔시티 유) | Mnet 230824 방송]]></title>
-        <id>https://tv.naver.com/v/39424549</id>
-        <link href="https://tv.naver.com/v/39424549"/>
-        <updated>2023-08-24T10:13:07.342Z</updated>
-        <content type="html"><![CDATA[02:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ADYA (에이디야) - 왜 불러(What's Up?) | Mnet 230824 방송]]></title>
-        <id>https://tv.naver.com/v/39424318</id>
-        <link href="https://tv.naver.com/v/39424318"/>
-        <updated>2023-08-24T10:13:07.342Z</updated>
-        <content type="html"><![CDATA[03:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[n.SSign (엔싸인) - 웜홀 (Wormhole: New Track) | Mnet 230824 방송]]></title>
-        <id>https://tv.naver.com/v/39423998</id>
-        <link href="https://tv.naver.com/v/39423998"/>
-        <updated>2023-08-24T10:13:07.346Z</updated>
-        <content type="html"><![CDATA[03:47]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ITZY가 알려주는 이번 주 엠카운트다운 라인업은?]]></title>
-        <id>https://tv.naver.com/v/39338905</id>
-        <link href="https://tv.naver.com/v/39338905"/>
-        <updated>2023-08-22T11:10:28.477Z</updated>
-        <content type="html"><![CDATA[01:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[K-POP 시간 여행 특집] Stray Kids (스트레이 키즈) - 특 | Mnet 230817 방송]]></title>
-        <id>https://tv.naver.com/v/39168552</id>
-        <link href="https://tv.naver.com/v/39168552"/>
-        <updated>2023-08-17T11:10:33.233Z</updated>
-        <content type="html"><![CDATA[03:35]]></content>
     </entry>
 </feed>
