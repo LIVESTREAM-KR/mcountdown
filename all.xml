@@ -2,8 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/mcountdown/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-09-21T10:13:49.603Z</updated>
+    <updated>2023-09-21T11:10:36.215Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[퍼플키스(PURPLE KISS) - 7HEAVEN | Mnet 230921 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/40567556</id>
+        <link href="https://tv.naver.com/v/40567556"/>
+        <updated>2023-09-21T11:10:35.429Z</updated>
+        <content type="html"><![CDATA[03:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' JO1 - Venus | Mnet 230921 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/40567552</id>
+        <link href="https://tv.naver.com/v/40567552"/>
+        <updated>2023-09-21T11:10:35.431Z</updated>
+        <content type="html"><![CDATA[03:34]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[cignature(시그니처) - 안녕, 인사해 (Smooth Sailing) | Mnet 230921 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/40567335</id>
+        <link href="https://tv.naver.com/v/40567335"/>
+        <updated>2023-09-21T11:10:35.433Z</updated>
+        <content type="html"><![CDATA[03:40]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['HOT DEBUT' EVNNE(이븐) - TROUBLE | Mnet 230921 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/40566902</id>
+        <link href="https://tv.naver.com/v/40566902"/>
+        <updated>2023-09-21T11:10:35.435Z</updated>
+        <content type="html"><![CDATA[04:21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['COMEBACK' 블랙스완 - Cat & Mouse | Mnet 230921 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/40566733</id>
+        <link href="https://tv.naver.com/v/40566733"/>
+        <updated>2023-09-21T11:10:35.437Z</updated>
+        <content type="html"><![CDATA[03:04]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TRENDZ(트렌드지) - MY WAY | Mnet 230921 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/40566731</id>
+        <link href="https://tv.naver.com/v/40566731"/>
+        <updated>2023-09-21T11:10:35.439Z</updated>
+        <content type="html"><![CDATA[03:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[H1-KEY (하이키) - 불빛을 꺼뜨리지 마 (Time to Shine) | Mnet 230921 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/40566133</id>
+        <link href="https://tv.naver.com/v/40566133"/>
+        <updated>2023-09-21T11:10:35.457Z</updated>
+        <content type="html"><![CDATA[03:20]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['데뷔 인터뷰' with EVNNE(이븐) | Mnet 230921 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/40566131</id>
+        <link href="https://tv.naver.com/v/40566131"/>
+        <updated>2023-09-21T11:10:35.459Z</updated>
+        <content type="html"><![CDATA[03:10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['COMEBACK' FANTASY BOYS - New Tomorrow | Mnet 230921 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/40565936</id>
+        <link href="https://tv.naver.com/v/40565936"/>
+        <updated>2023-09-21T11:10:35.461Z</updated>
+        <content type="html"><![CDATA[04:03]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['COMEBACK' APOKI - Space | Mnet 230921 방송 (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/40565349</id>
@@ -150,68 +213,5 @@
         <link href="https://tv.naver.com/v/40271165"/>
         <updated>2023-09-14T11:10:29.267Z</updated>
         <content type="html"><![CDATA[04:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' EL7Z UP (엘즈업) - CHEEKY | Mnet 230914 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/40270767</id>
-        <link href="https://tv.naver.com/v/40270767"/>
-        <updated>2023-09-14T11:10:29.269Z</updated>
-        <content type="html"><![CDATA[04:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TRENDZ(트렌드지) - MY WAY | Mnet 230914 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/40270764</id>
-        <link href="https://tv.naver.com/v/40270764"/>
-        <updated>2023-09-14T11:10:29.270Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['데뷔 인터뷰' with 허영지 (HUR YOUNGJI) | Mnet 230914 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/40270524</id>
-        <link href="https://tv.naver.com/v/40270524"/>
-        <updated>2023-09-14T11:10:29.270Z</updated>
-        <content type="html"><![CDATA[02:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[로켓펀치 - BOOM | Mnet 230914 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/40270517</id>
-        <link href="https://tv.naver.com/v/40270517"/>
-        <updated>2023-09-14T11:10:29.271Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[재현, 한빈, 소희의 친해지길 바라★ | Mnet 230914 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/40270336</id>
-        <link href="https://tv.naver.com/v/40270336"/>
-        <updated>2023-09-14T11:10:29.272Z</updated>
-        <content type="html"><![CDATA[04:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['COMEBACK' mimiirose(미미로즈) - FLIRTING | Mnet 230914 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/40270332</id>
-        <link href="https://tv.naver.com/v/40270332"/>
-        <updated>2023-09-14T11:10:29.273Z</updated>
-        <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[H1-KEY(하이키) - 불빛을 꺼뜨리지 마 (Time to Shine) | Mnet 230914 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/40269930</id>
-        <link href="https://tv.naver.com/v/40269930"/>
-        <updated>2023-09-14T10:13:30.477Z</updated>
-        <content type="html"><![CDATA[03:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['UP NEXT' V (뷔) #1 | Mnet 230914 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/40269927</id>
-        <link href="https://tv.naver.com/v/40269927"/>
-        <updated>2023-09-14T10:13:30.482Z</updated>
-        <content type="html"><![CDATA[00:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['DEBUT' POW - Favorite | Mnet 230914 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/40269590</id>
-        <link href="https://tv.naver.com/v/40269590"/>
-        <updated>2023-09-14T10:13:30.482Z</updated>
-        <content type="html"><![CDATA[03:39]]></content>
     </entry>
 </feed>
