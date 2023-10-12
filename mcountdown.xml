@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2023-10-12T09:13:00.805Z</updated>
+    <updated>2023-10-12T10:13:46.654Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[EVNNE(이븐) - TROUBLE | Mnet 231012 방송]]></title>
+        <id>https://tv.naver.com/v/41295813</id>
+        <link href="https://tv.naver.com/v/41295813"/>
+        <updated>2023-10-12T10:13:45.656Z</updated>
+        <content type="html"><![CDATA[03:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['UP NEXT' 임영웅 (Lim Young Woong) | Mnet 231012 방송]]></title>
+        <id>https://tv.naver.com/v/41295812</id>
+        <link href="https://tv.naver.com/v/41295812"/>
+        <updated>2023-10-12T10:13:45.657Z</updated>
+        <content type="html"><![CDATA[00:26]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['DEBUT' 82MAJOR - FIRST CLASS | Mnet 231012 방송]]></title>
+        <id>https://tv.naver.com/v/41295634</id>
+        <link href="https://tv.naver.com/v/41295634"/>
+        <updated>2023-10-12T10:13:45.658Z</updated>
+        <content type="html"><![CDATA[03:21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[tripleS EVOLution - Invincible | Mnet 231012 방송]]></title>
+        <id>https://tv.naver.com/v/41295349</id>
+        <link href="https://tv.naver.com/v/41295349"/>
+        <updated>2023-10-12T10:13:45.658Z</updated>
+        <content type="html"><![CDATA[03:17]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BOYNEXTDOOR가 알려주는 이번 주 엠카운트다운 라인업은?]]></title>
         <id>https://tv.naver.com/v/41197257</id>
@@ -186,33 +214,5 @@
         <link href="https://tv.naver.com/v/40569873"/>
         <updated>2023-09-21T12:24:01.696Z</updated>
         <content type="html"><![CDATA[03:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[화사 (HWASA) - I Love My Body | Mnet 230921 방송]]></title>
-        <id>https://tv.naver.com/v/40569870</id>
-        <link href="https://tv.naver.com/v/40569870"/>
-        <updated>2023-09-21T12:24:01.696Z</updated>
-        <content type="html"><![CDATA[02:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[허영지 - L.O.V.E | Mnet 230921 방송]]></title>
-        <id>https://tv.naver.com/v/40569868</id>
-        <link href="https://tv.naver.com/v/40569868"/>
-        <updated>2023-09-21T12:24:01.699Z</updated>
-        <content type="html"><![CDATA[03:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CRAVITY - Ready or Not | Mnet 230921 방송]]></title>
-        <id>https://tv.naver.com/v/40571411</id>
-        <link href="https://tv.naver.com/v/40571411"/>
-        <updated>2023-09-21T13:16:14.937Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' TEMPEST(템페스트) - Vroom Vroom | Mnet 230921 방송]]></title>
-        <id>https://tv.naver.com/v/40569698</id>
-        <link href="https://tv.naver.com/v/40569698"/>
-        <updated>2023-09-21T12:24:01.700Z</updated>
-        <content type="html"><![CDATA[03:46]]></content>
     </entry>
 </feed>
