@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/mcountdown/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-01-11T13:15:37.975Z</updated>
+    <updated>2024-01-11T14:12:20.873Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA['COMEBACK' 동방신기 (TVXQ!) - Rebel | Mnet 240111 방송 (엠카운트다운)]]></title>
@@ -47,6 +47,13 @@
         <content type="html"><![CDATA[03:33]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA['최초 공개' ITZY - UNTOUCHABLE | Mnet 240111 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/45599951</id>
+        <link href="https://tv.naver.com/v/45599951"/>
+        <updated>2024-01-11T14:12:20.224Z</updated>
+        <content type="html"><![CDATA[04:16]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['최초 공개' ITZY - BORN TO BE | Mnet 240111 방송 (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/45599716</id>
         <link href="https://tv.naver.com/v/45599716"/>
@@ -66,12 +73,5 @@
         <link href="https://tv.naver.com/v/45599521"/>
         <updated>2024-01-11T11:11:10.171Z</updated>
         <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['COMEBACK' RIIZE - Love 119 | Mnet 240111 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/45599340</id>
-        <link href="https://tv.naver.com/v/45599340"/>
-        <updated>2024-01-11T11:11:10.172Z</updated>
-        <content type="html"><![CDATA[04:12]]></content>
     </entry>
 </feed>
