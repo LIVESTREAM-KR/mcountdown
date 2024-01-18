@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2024-01-18T09:13:15.067Z</updated>
+    <updated>2024-01-18T10:14:15.831Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['컴백 인터뷰' with NMIXX (엔믹스) | Mnet 240118 방송]]></title>
+        <id>https://tv.naver.com/v/45927231</id>
+        <link href="https://tv.naver.com/v/45927231"/>
+        <updated>2024-01-18T10:14:15.263Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[라임라잇(LIMELIGHT) - TA-DA! | Mnet 240118 방송]]></title>
+        <id>https://tv.naver.com/v/45927037</id>
+        <link href="https://tv.naver.com/v/45927037"/>
+        <updated>2024-01-18T10:14:15.263Z</updated>
+        <content type="html"><![CDATA[03:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ALL(H)OURS(올아워즈) - 으랏차차(GOTCHA) | Mnet 240118 방송]]></title>
+        <id>https://tv.naver.com/v/45926752</id>
+        <link href="https://tv.naver.com/v/45926752"/>
+        <updated>2024-01-18T10:14:15.265Z</updated>
+        <content type="html"><![CDATA[03:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[예빈나다 - Stay with me | Mnet 240118 방송]]></title>
+        <id>https://tv.naver.com/v/45926750</id>
+        <link href="https://tv.naver.com/v/45926750"/>
+        <updated>2024-01-18T10:14:15.268Z</updated>
+        <content type="html"><![CDATA[02:55]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RIIZE가 알려주는 이번 주 엠카운트다운 라인업은?]]></title>
         <id>https://tv.naver.com/v/45826373</id>
@@ -46,33 +74,5 @@
         <link href="https://tv.naver.com/v/45600332"/>
         <updated>2024-01-11T11:11:10.162Z</updated>
         <content type="html"><![CDATA[03:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['컴백 인터뷰' with 동방신기 (TVXQ!) | Mnet 240111 방송]]></title>
-        <id>https://tv.naver.com/v/45600118</id>
-        <link href="https://tv.naver.com/v/45600118"/>
-        <updated>2024-01-11T11:11:10.163Z</updated>
-        <content type="html"><![CDATA[03:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' SF9 - 비보라 (BIBORA) | Mnet 240111 방송]]></title>
-        <id>https://tv.naver.com/v/45600115</id>
-        <link href="https://tv.naver.com/v/45600115"/>
-        <updated>2024-01-11T11:11:10.165Z</updated>
-        <content type="html"><![CDATA[03:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' ITZY - UNTOUCHABLE | Mnet 240111 방송]]></title>
-        <id>https://tv.naver.com/v/45599951</id>
-        <link href="https://tv.naver.com/v/45599951"/>
-        <updated>2024-01-11T14:12:20.224Z</updated>
-        <content type="html"><![CDATA[04:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' ITZY - BORN TO BE | Mnet 240111 방송]]></title>
-        <id>https://tv.naver.com/v/45599716</id>
-        <link href="https://tv.naver.com/v/45599716"/>
-        <updated>2024-01-11T11:11:10.169Z</updated>
-        <content type="html"><![CDATA[03:15]]></content>
     </entry>
 </feed>
