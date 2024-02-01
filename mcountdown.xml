@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2024-02-01T11:10:48.310Z</updated>
+    <updated>2024-02-01T12:21:35.306Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' (여자)아이들 - Super Lady | Mnet 240201 방송]]></title>
+        <id>https://tv.naver.com/v/46588549</id>
+        <link href="https://tv.naver.com/v/46588549"/>
+        <updated>2024-02-01T12:21:34.613Z</updated>
+        <content type="html"><![CDATA[04:41]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AB6IX (에이비식스) - GRAB ME | Mnet 240201 방송]]></title>
+        <id>https://tv.naver.com/v/46588214</id>
+        <link href="https://tv.naver.com/v/46588214"/>
+        <updated>2024-02-01T12:21:34.613Z</updated>
+        <content type="html"><![CDATA[03:31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['콜라주 M' 장하오 (ZEROBASEONE) - I WANNA KNOW | Mnet 240201 방송]]></title>
+        <id>https://tv.naver.com/v/46588207</id>
+        <link href="https://tv.naver.com/v/46588207"/>
+        <updated>2024-02-01T12:21:34.614Z</updated>
+        <content type="html"><![CDATA[03:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['먼슬리 엠카PICK' 1월의 엠카PICK 송 & 스테이지는? | Mnet 240201 방송]]></title>
+        <id>https://tv.naver.com/v/46587898</id>
+        <link href="https://tv.naver.com/v/46587898"/>
+        <updated>2024-02-01T12:21:34.614Z</updated>
+        <content type="html"><![CDATA[03:53]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[설아 (우주소녀) - Without U | Mnet 240201 방송]]></title>
         <id>https://tv.naver.com/v/46587700</id>
@@ -27,7 +55,7 @@
         <content type="html"><![CDATA[03:06]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['미니 팬미팅' (여자)아이들 ((G)I-DLE) (with NAVERLAND ♥) | Mnet 240201 방송]]></title>
+        <title type="html"><![CDATA['미니 팬미팅' (여자)아이들 ((G)I-DLE) (with NEVERLAND ♥) | Mnet 240201 방송]]></title>
         <id>https://tv.naver.com/v/46587125</id>
         <link href="https://tv.naver.com/v/46587125"/>
         <updated>2024-02-01T11:10:47.757Z</updated>
@@ -46,33 +74,5 @@
         <link href="https://tv.naver.com/v/46586629"/>
         <updated>2024-02-01T11:10:47.763Z</updated>
         <content type="html"><![CDATA[02:53]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[8TURN(에잇턴) - RU-PUM PUM | Mnet 240201 방송]]></title>
-        <id>https://tv.naver.com/v/46586377</id>
-        <link href="https://tv.naver.com/v/46586377"/>
-        <updated>2024-02-01T11:10:47.763Z</updated>
-        <content type="html"><![CDATA[03:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EVNNE(이븐) -  UGLY | Mnet 240201 방송]]></title>
-        <id>https://tv.naver.com/v/46586211</id>
-        <link href="https://tv.naver.com/v/46586211"/>
-        <updated>2024-02-01T11:10:47.764Z</updated>
-        <content type="html"><![CDATA[03:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라임라잇(LIMELIGHT) - TA-DA | Mnet 240201 방송]]></title>
-        <id>https://tv.naver.com/v/46586208</id>
-        <link href="https://tv.naver.com/v/46586208"/>
-        <updated>2024-02-01T11:10:47.765Z</updated>
-        <content type="html"><![CDATA[03:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TWS (투어스) - 첫 만남은 계획대로 되지 않아 | Mnet 240201 방송]]></title>
-        <id>https://tv.naver.com/v/46585773</id>
-        <link href="https://tv.naver.com/v/46585773"/>
-        <updated>2024-02-01T11:10:47.767Z</updated>
-        <content type="html"><![CDATA[02:57]]></content>
     </entry>
 </feed>
