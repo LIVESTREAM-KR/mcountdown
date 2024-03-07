@@ -2,8 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/mcountdown/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-03-07T09:11:50.070Z</updated>
+    <updated>2024-03-07T10:12:52.974Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[더윈드 (The Wind) - H! TEEN | Mnet 240307 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/47991073</id>
+        <link href="https://tv.naver.com/v/47991073"/>
+        <updated>2024-03-07T10:12:52.373Z</updated>
+        <content type="html"><![CDATA[03:04]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['차차차' 내 팬이 한눈판다면? | Mnet 240307 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/47990850</id>
+        <link href="https://tv.naver.com/v/47990850"/>
+        <updated>2024-03-07T10:12:52.375Z</updated>
+        <content type="html"><![CDATA[04:11]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ICHILLIN' (아이칠린) - ON MY LIPS | Mnet 240307 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/47990536</id>
+        <link href="https://tv.naver.com/v/47990536"/>
+        <updated>2024-03-07T10:12:52.378Z</updated>
+        <content type="html"><![CDATA[02:51]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['데뷔 인터뷰' with NCT WISH (엔시티 위시) | Mnet 240307 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/47990284</id>
+        <link href="https://tv.naver.com/v/47990284"/>
+        <updated>2024-03-07T10:12:52.380Z</updated>
+        <content type="html"><![CDATA[03:34]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NOMAD - No pressure | Mnet 240307 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/47989720</id>
+        <link href="https://tv.naver.com/v/47989720"/>
+        <updated>2024-03-07T10:12:52.381Z</updated>
+        <content type="html"><![CDATA[03:05]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TWICE(트와이스)가 알려주는 이번 주 엠카운트다운 라인업은? (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/47885407</id>
@@ -38,40 +73,5 @@
         <link href="https://tv.naver.com/v/47715304"/>
         <updated>2024-02-29T11:11:44.793Z</updated>
         <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' 태용 (TAEYONG) - Moon Tour | Mnet 240229 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/47715301</id>
-        <link href="https://tv.naver.com/v/47715301"/>
-        <updated>2024-02-29T11:11:44.795Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미니 팬미팅' TWICE(트와이스) (with ONCE ♥) | Mnet 240229 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/47715165</id>
-        <link href="https://tv.naver.com/v/47715165"/>
-        <updated>2024-02-29T11:11:44.795Z</updated>
-        <content type="html"><![CDATA[04:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['COMEBACK' 텐 - Nightwalker | Mnet 240229 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/47714981</id>
-        <link href="https://tv.naver.com/v/47714981"/>
-        <updated>2024-02-29T11:11:44.797Z</updated>
-        <content type="html"><![CDATA[03:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LE SSERAFIM - EASY | Mnet 240229 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/47714975</id>
-        <link href="https://tv.naver.com/v/47714975"/>
-        <updated>2024-02-29T11:11:44.804Z</updated>
-        <content type="html"><![CDATA[02:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' LE SSERAFIM - Smart | Mnet 240229 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/47714807</id>
-        <link href="https://tv.naver.com/v/47714807"/>
-        <updated>2024-02-29T11:11:44.804Z</updated>
-        <content type="html"><![CDATA[02:57]]></content>
     </entry>
 </feed>
