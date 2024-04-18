@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/mcountdown/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-04-18T15:13:51.125Z</updated>
+    <updated>2024-04-18T16:16:19.540Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA['최초 공개' SUPER JUNIOR-D&E - GGB | Mnet 240418 방송 (엠카운트다운)]]></title>
@@ -72,6 +72,6 @@
         <id>https://tv.naver.com/v/50058970</id>
         <link href="https://tv.naver.com/v/50058970"/>
         <updated>2024-04-18T11:10:51.901Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
+        <content type="html"><![CDATA[03:04]]></content>
     </entry>
 </feed>
