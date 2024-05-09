@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/mcountdown/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-05-09T08:16:32.487Z</updated>
+    <updated>2024-05-09T09:14:17.655Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[SHINE STAGE 특집] 아일릿(ILLIT) - Magnetic | Mnet 240509 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/51102252</id>
+        <link href="https://tv.naver.com/v/51102252"/>
+        <updated>2024-05-09T09:14:17.041Z</updated>
+        <content type="html"><![CDATA[02:50]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[SHINE STAGE 특집] NOWADAYS (나우어데이즈) - OoWee | Mnet 240509 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/51102249</id>
+        <link href="https://tv.naver.com/v/51102249"/>
+        <updated>2024-05-09T09:14:17.043Z</updated>
+        <content type="html"><![CDATA[03:06]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[샤인멍또캣이 알려주는 이번 주 엠카운트다운 라인업은? (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/50996229</id>
@@ -59,19 +73,5 @@
         <link href="https://tv.naver.com/v/50768469"/>
         <updated>2024-05-02T11:11:15.314Z</updated>
         <content type="html"><![CDATA[03:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BOYNEXTDOOR - Earth, Wind & Fire | Mnet 240502 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/50768191</id>
-        <link href="https://tv.naver.com/v/50768191"/>
-        <updated>2024-05-02T11:11:15.315Z</updated>
-        <content type="html"><![CDATA[03:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우기 ((여자)아이들) - FREAK | Mnet 240502 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/50768190</id>
-        <link href="https://tv.naver.com/v/50768190"/>
-        <updated>2024-05-02T11:11:15.316Z</updated>
-        <content type="html"><![CDATA[02:53]]></content>
     </entry>
 </feed>
