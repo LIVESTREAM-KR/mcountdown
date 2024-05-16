@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/mcountdown/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-05-16T11:12:07.254Z</updated>
+    <updated>2024-05-16T12:25:19.617Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[세븐틴 (SEVENTEEN) - MAESTRO | Mnet 240516 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/51450717</id>
+        <link href="https://tv.naver.com/v/51450717"/>
+        <updated>2024-05-16T12:25:19.050Z</updated>
+        <content type="html"><![CDATA[03:44]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' aespa - Supernova | Mnet 240516 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/51450186</id>
+        <link href="https://tv.naver.com/v/51450186"/>
+        <updated>2024-05-16T12:25:19.051Z</updated>
+        <content type="html"><![CDATA[03:17]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['COMEBACK' 김재환 - 나만큼 (Amaid) (Prod. Dynamicduo, Padi) | Mnet 240516 방송 (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/51449799</id>
@@ -59,19 +73,5 @@
         <link href="https://tv.naver.com/v/51447733"/>
         <updated>2024-05-16T11:12:06.685Z</updated>
         <content type="html"><![CDATA[03:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['차차차' 🍿오늘은 내가 팝콘 왕🍿 IVE VS BOYNEXTDOOR VS Xdinary Heroes! | Mnet 240516 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/51447729</id>
-        <link href="https://tv.naver.com/v/51447729"/>
-        <updated>2024-05-16T11:12:06.686Z</updated>
-        <content type="html"><![CDATA[04:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['COMEBACK' tripleS - Girls Never Die | Mnet 240516 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/51447193</id>
-        <link href="https://tv.naver.com/v/51447193"/>
-        <updated>2024-05-16T11:12:06.689Z</updated>
-        <content type="html"><![CDATA[03:35]]></content>
     </entry>
 </feed>
