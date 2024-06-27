@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2024-06-27T10:15:39.257Z</updated>
+    <updated>2024-06-27T11:11:47.596Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['차차차' RIIZE 𝘷𝘴 WayV 𝘷𝘴 EVNNE(이븐)! 오늘은 내가 왕이다람쥐🐿️👑 | Mnet 240627 방송]]></title>
+        <id>https://tv.naver.com/v/56619931</id>
+        <link href="https://tv.naver.com/v/56619931"/>
+        <updated>2024-06-27T11:11:46.975Z</updated>
+        <content type="html"><![CDATA[04:48]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EVNNE(이븐) - Badder Love | Mnet 240627 방송]]></title>
+        <id>https://tv.naver.com/v/56619421</id>
+        <link href="https://tv.naver.com/v/56619421"/>
+        <updated>2024-06-27T11:11:46.976Z</updated>
+        <content type="html"><![CDATA[02:48]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['컴백 인터뷰' Red Velvet (레드벨벳) | Mnet 240627 방송]]></title>
+        <id>https://tv.naver.com/v/56618671</id>
+        <link href="https://tv.naver.com/v/56618671"/>
+        <updated>2024-06-27T11:11:46.977Z</updated>
+        <content type="html"><![CDATA[03:36]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BAE173 - WHAT | Mnet 240627 방송]]></title>
+        <id>https://tv.naver.com/v/56618224</id>
+        <link href="https://tv.naver.com/v/56618224"/>
+        <updated>2024-06-27T11:11:46.978Z</updated>
+        <content type="html"><![CDATA[03:11]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['HOT DEBUT' IS:SUE - CONNECT (Korean Ver.) | Mnet 240627 방송]]></title>
+        <id>https://tv.naver.com/v/56618029</id>
+        <link href="https://tv.naver.com/v/56618029"/>
+        <updated>2024-06-27T11:11:46.979Z</updated>
+        <content type="html"><![CDATA[03:44]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[H1-KEY (하이키) - 뜨거워지자 (Let It Burn) | Mnet 240627 방송]]></title>
         <id>https://tv.naver.com/v/56617859</id>
@@ -39,40 +74,5 @@
         <link href="https://tv.naver.com/v/56498972"/>
         <updated>2024-06-25T13:16:18.286Z</updated>
         <content type="html"><![CDATA[01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' 정한 X 원우 (SEVENTEEN) - 어젯밤 (Guitar by 박주원) | Mnet 240620 방송]]></title>
-        <id>https://tv.naver.com/v/56095988</id>
-        <link href="https://tv.naver.com/v/56095988"/>
-        <updated>2024-06-20T12:25:24.360Z</updated>
-        <content type="html"><![CDATA[04:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['COMEBACK' 나연 (TWICE) - ABCD | Mnet 240620 방송]]></title>
-        <id>https://tv.naver.com/v/56095972</id>
-        <link href="https://tv.naver.com/v/56095972"/>
-        <updated>2024-06-20T12:25:24.360Z</updated>
-        <content type="html"><![CDATA[03:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' RIIZE - Boom Boom Bass | Mnet 240620 방송]]></title>
-        <id>https://tv.naver.com/v/56095287</id>
-        <link href="https://tv.naver.com/v/56095287"/>
-        <updated>2024-06-20T12:25:24.361Z</updated>
-        <content type="html"><![CDATA[04:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[케플러 (Kep1er) - Shooting Star | Mnet 240620 방송]]></title>
-        <id>https://tv.naver.com/v/56094488</id>
-        <link href="https://tv.naver.com/v/56094488"/>
-        <updated>2024-06-20T12:25:24.362Z</updated>
-        <content type="html"><![CDATA[03:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['컴백 인터뷰' 나연 (TWICE) | Mnet 240620 방송]]></title>
-        <id>https://tv.naver.com/v/56094466</id>
-        <link href="https://tv.naver.com/v/56094466"/>
-        <updated>2024-06-20T12:25:24.365Z</updated>
-        <content type="html"><![CDATA[02:20]]></content>
     </entry>
 </feed>
