@@ -2,8 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/mcountdown/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-07-04T09:15:23.876Z</updated>
+    <updated>2024-07-04T10:14:44.012Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[EVNNE(이븐) - Badder Love | Mnet 240704 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/56982216</id>
+        <link href="https://tv.naver.com/v/56982216"/>
+        <updated>2024-07-04T10:14:43.436Z</updated>
+        <content type="html"><![CDATA[02:43]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[H1-KEY (하이키) - 뜨거워지자 (Let It Burn) | Mnet 240704 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/56982180</id>
+        <link href="https://tv.naver.com/v/56982180"/>
+        <updated>2024-07-04T10:14:43.436Z</updated>
+        <content type="html"><![CDATA[03:03]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['먼슬리 엠카PICK' 6월의 엠카PICK 송 & 스테이지는? | Mnet 240704 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/56981821</id>
+        <link href="https://tv.naver.com/v/56981821"/>
+        <updated>2024-07-04T10:14:43.436Z</updated>
+        <content type="html"><![CDATA[04:39]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['COMEBACK' ALL(H)OURS(올아워즈) - 도깨비(SHOCK) | Mnet 240704 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/56981819</id>
+        <link href="https://tv.naver.com/v/56981819"/>
+        <updated>2024-07-04T10:14:43.437Z</updated>
+        <content type="html"><![CDATA[03:22]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['컴백 인터뷰'  NCT WISH (엔시티 위시) | Mnet 240704 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/56981678</id>
+        <link href="https://tv.naver.com/v/56981678"/>
+        <updated>2024-07-04T10:14:43.439Z</updated>
+        <content type="html"><![CDATA[02:54]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BADVILLAIN (배드빌런) - HURRICANE | Mnet 240704 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/56981656</id>
+        <link href="https://tv.naver.com/v/56981656"/>
+        <updated>2024-07-04T10:14:43.441Z</updated>
+        <content type="html"><![CDATA[02:32]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[B.D.U - My One | Mnet 240704 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/56981652</id>
+        <link href="https://tv.naver.com/v/56981652"/>
+        <updated>2024-07-04T10:14:43.444Z</updated>
+        <content type="html"><![CDATA[03:09]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TRENDZ(트렌드지) - GLOW | Mnet 240704 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/56981255</id>
+        <link href="https://tv.naver.com/v/56981255"/>
+        <updated>2024-07-04T10:14:43.445Z</updated>
+        <content type="html"><![CDATA[03:21]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TWS(투어스)가 알려주는 이번 주 엠카운트다운 라인업은? (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/56863745</id>
@@ -17,61 +73,5 @@
         <link href="https://tv.naver.com/v/56799556"/>
         <updated>2024-07-01T10:16:48.889Z</updated>
         <content type="html"><![CDATA[05:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' Red Velvet - Cosmic | Mnet 240627 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/56622825</id>
-        <link href="https://tv.naver.com/v/56622825"/>
-        <updated>2024-06-27T12:26:45.455Z</updated>
-        <content type="html"><![CDATA[04:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RIIZE - Boom Boom Bass | Mnet 240627 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/56622546</id>
-        <link href="https://tv.naver.com/v/56622546"/>
-        <updated>2024-06-27T12:26:45.461Z</updated>
-        <content type="html"><![CDATA[02:47]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[권은비 - SABOTAGE | Mnet 240627 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/56622308</id>
-        <link href="https://tv.naver.com/v/56622308"/>
-        <updated>2024-06-27T12:26:45.464Z</updated>
-        <content type="html"><![CDATA[03:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[케플러 (Kep1er) - PROBLEM | Mnet 240627 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/56622032</id>
-        <link href="https://tv.naver.com/v/56622032"/>
-        <updated>2024-06-27T12:26:45.466Z</updated>
-        <content type="html"><![CDATA[03:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['COMEBACK' TWS (투어스) - 내가 S면 넌 나의 N이 되어줘 | Mnet 240627 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/56621808</id>
-        <link href="https://tv.naver.com/v/56621808"/>
-        <updated>2024-06-27T12:26:45.466Z</updated>
-        <content type="html"><![CDATA[04:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['COMEBACK' TWS (투어스) - Double Take | Mnet 240627 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/56621636</id>
-        <link href="https://tv.naver.com/v/56621636"/>
-        <updated>2024-06-27T12:26:45.467Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' ROCKY - Jealousy | Mnet 240627 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/56621384</id>
-        <link href="https://tv.naver.com/v/56621384"/>
-        <updated>2024-06-27T12:26:45.469Z</updated>
-        <content type="html"><![CDATA[03:56]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미니 팬미팅' with TWS (투어스) (with 42(사이)♥) | Mnet 240627 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/56621375</id>
-        <link href="https://tv.naver.com/v/56621375"/>
-        <updated>2024-06-27T12:26:45.470Z</updated>
-        <content type="html"><![CDATA[04:35]]></content>
     </entry>
 </feed>
