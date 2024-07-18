@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2024-07-18T14:13:41.986Z</updated>
+    <updated>2024-07-18T15:15:31.221Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[안재현, 미연 도슨트와 함께보는 엠카운트다운 20주년 기록 전시 | Mnet 240718 방송]]></title>
+        <id>https://tv.naver.com/v/57750282</id>
+        <link href="https://tv.naver.com/v/57750282"/>
+        <updated>2024-07-18T15:15:30.623Z</updated>
+        <content type="html"><![CDATA[04:50]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['Special Stage' 성한빈 X 명재현 X 소희 - 파이팅 해야지 | Mnet 240718 방송]]></title>
+        <id>https://tv.naver.com/v/57749067</id>
+        <link href="https://tv.naver.com/v/57749067"/>
+        <updated>2024-07-18T15:15:30.624Z</updated>
+        <content type="html"><![CDATA[04:26]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🌹엠카 20주년 기념 VOCAL CHALLENGE 07. 18. 6PM COMING SOON🌹]]></title>
         <id>https://tv.naver.com/v/57681826</id>
@@ -60,19 +74,5 @@
         <link href="https://tv.naver.com/v/57374319"/>
         <updated>2024-07-11T13:17:45.537Z</updated>
         <content type="html"><![CDATA[02:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['차차차' RIIZE 𝘷𝘴 KISS OF LIFE 𝘷𝘴 STAYC!!! 오늘은 내가 인형뽑기 왕! | Mnet 240711 방송]]></title>
-        <id>https://tv.naver.com/v/57374279</id>
-        <link href="https://tv.naver.com/v/57374279"/>
-        <updated>2024-07-11T13:17:45.539Z</updated>
-        <content type="html"><![CDATA[04:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TWS (투어스) - 내가 S면 넌 나의 N이 되어줘 | Mnet 240711 방송]]></title>
-        <id>https://tv.naver.com/v/57373877</id>
-        <link href="https://tv.naver.com/v/57373877"/>
-        <updated>2024-07-11T13:17:45.540Z</updated>
-        <content type="html"><![CDATA[03:06]]></content>
     </entry>
 </feed>
