@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2024-08-29T11:13:43.155Z</updated>
+    <updated>2024-08-29T12:28:24.128Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' JUN. K - Paint this love | Mnet 240829 방송]]></title>
+        <id>https://tv.naver.com/v/60108725</id>
+        <link href="https://tv.naver.com/v/60108725"/>
+        <updated>2024-08-29T12:28:23.533Z</updated>
+        <content type="html"><![CDATA[03:42]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' 오마이걸 (OH MY GIRL) - Classified | Mnet 240829 방송]]></title>
+        <id>https://tv.naver.com/v/60108501</id>
+        <link href="https://tv.naver.com/v/60108501"/>
+        <updated>2024-08-29T12:28:23.534Z</updated>
+        <content type="html"><![CDATA[04:07]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' 오마이걸 (OH MY GIRL) - Start Up | Mnet 240829 방송]]></title>
+        <id>https://tv.naver.com/v/60108494</id>
+        <link href="https://tv.naver.com/v/60108494"/>
+        <updated>2024-08-29T12:28:23.534Z</updated>
+        <content type="html"><![CDATA[03:40]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' 찬열 - Black Out | Mnet 240829 방송]]></title>
+        <id>https://tv.naver.com/v/60108343</id>
+        <link href="https://tv.naver.com/v/60108343"/>
+        <updated>2024-08-29T12:28:23.536Z</updated>
+        <content type="html"><![CDATA[03:07]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['NEXT WEEK' BOYNEXTDOOR (보이넥스트도어) | Mnet 240829 방송]]></title>
         <id>https://tv.naver.com/v/60108080</id>
@@ -46,33 +74,5 @@
         <link href="https://tv.naver.com/v/60107277"/>
         <updated>2024-08-29T11:13:42.545Z</updated>
         <content type="html"><![CDATA[06:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['COMEBACK' 방예담 - O-HE | Mnet 240829 방송]]></title>
-        <id>https://tv.naver.com/v/60107112</id>
-        <link href="https://tv.naver.com/v/60107112"/>
-        <updated>2024-08-29T11:13:42.546Z</updated>
-        <content type="html"><![CDATA[02:56]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['차차차' NMIXX 𝘷𝘴 SF9 𝘷𝘴 fromis_9! 오늘은 내가 운수 대왕🍀👑 | Mnet 240829 방송]]></title>
-        <id>https://tv.naver.com/v/60106787</id>
-        <link href="https://tv.naver.com/v/60106787"/>
-        <updated>2024-08-29T11:13:42.547Z</updated>
-        <content type="html"><![CDATA[04:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DRIPPIN - Weekend | Mnet 240829 방송]]></title>
-        <id>https://tv.naver.com/v/60106556</id>
-        <link href="https://tv.naver.com/v/60106556"/>
-        <updated>2024-08-29T11:13:42.548Z</updated>
-        <content type="html"><![CDATA[02:55]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['COMEBACK' NOWADAYS - Why Not? | Mnet 240829 방송]]></title>
-        <id>https://tv.naver.com/v/60106555</id>
-        <link href="https://tv.naver.com/v/60106555"/>
-        <updated>2024-08-29T11:13:42.550Z</updated>
-        <content type="html"><![CDATA[03:16]]></content>
     </entry>
 </feed>
