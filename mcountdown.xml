@@ -2,77 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2024-09-05T11:13:47.075Z</updated>
+    <updated>2024-09-05T12:29:02.111Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오마이걸 (OH MY GIRL) - Classified | Mnet 240905 방송]]></title>
+        <id>https://tv.naver.com/v/60496668</id>
+        <link href="https://tv.naver.com/v/60496668"/>
+        <updated>2024-09-05T12:29:01.446Z</updated>
+        <content type="html"><![CDATA[03:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' DAY6 - 녹아내려요 | Mnet 240905 방송]]></title>
+        <id>https://tv.naver.com/v/60496208</id>
+        <link href="https://tv.naver.com/v/60496208"/>
+        <updated>2024-09-05T12:29:01.446Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['COMEBACK' LE SSERAFIM - CRAZY | Mnet 240905 방송]]></title>
+        <id>https://tv.naver.com/v/60495972</id>
+        <link href="https://tv.naver.com/v/60495972"/>
+        <updated>2024-09-05T12:29:01.446Z</updated>
+        <content type="html"><![CDATA[03:58]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['COMEBACK' LE SSERAFIM - 1-800-hot-n-fun | Mnet 240905 방송]]></title>
+        <id>https://tv.naver.com/v/60495944</id>
+        <link href="https://tv.naver.com/v/60495944"/>
+        <updated>2024-09-05T12:29:01.448Z</updated>
+        <content type="html"><![CDATA[03:10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['컴백 인터뷰' DAY6 (데이식스) | Mnet 240905 방송]]></title>
+        <id>https://tv.naver.com/v/60495400</id>
+        <link href="https://tv.naver.com/v/60495400"/>
+        <updated>2024-09-05T12:29:01.450Z</updated>
+        <content type="html"><![CDATA[04:22]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['먼슬리 엠카PICK' 8월의 엠카PICK 송 & 스테이지는? | Mnet 240905 방송]]></title>
+        <id>https://tv.naver.com/v/60495203</id>
+        <link href="https://tv.naver.com/v/60495203"/>
+        <updated>2024-09-05T12:29:01.450Z</updated>
+        <content type="html"><![CDATA[04:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ZEROBASEONE - GOOD SO BAD | Mnet 240905 방송]]></title>
+        <id>https://tv.naver.com/v/60495167</id>
+        <link href="https://tv.naver.com/v/60495167"/>
+        <updated>2024-09-05T12:29:01.451Z</updated>
+        <content type="html"><![CDATA[03:10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NMIXX - 별별별 (See that?) | Mnet 240905 방송]]></title>
+        <id>https://tv.naver.com/v/60494689</id>
+        <link href="https://tv.naver.com/v/60494689"/>
+        <updated>2024-09-05T12:29:01.452Z</updated>
+        <content type="html"><![CDATA[03:15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' BOYNEXTDOOR - 부모님 관람불가 | Mnet 240905 방송]]></title>
+        <id>https://tv.naver.com/v/60494685</id>
+        <link href="https://tv.naver.com/v/60494685"/>
+        <updated>2024-09-05T12:29:01.454Z</updated>
+        <content type="html"><![CDATA[04:36]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['최초 공개' 윤하(YOUNHA) - 태양물고기 | Mnet 240905 방송]]></title>
         <id>https://tv.naver.com/v/60493266</id>
         <link href="https://tv.naver.com/v/60493266"/>
         <updated>2024-09-05T11:13:46.450Z</updated>
         <content type="html"><![CDATA[03:41]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미니 팬미팅' LE SSERAFIM (르세라핌) (with 피어나 ♥︎) | Mnet 240905 방송]]></title>
-        <id>https://tv.naver.com/v/60493048</id>
-        <link href="https://tv.naver.com/v/60493048"/>
-        <updated>2024-09-05T11:13:46.450Z</updated>
-        <content type="html"><![CDATA[03:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' 영탁 - 슈퍼슈퍼 (SuperSuper) | Mnet 240905 방송]]></title>
-        <id>https://tv.naver.com/v/60492766</id>
-        <link href="https://tv.naver.com/v/60492766"/>
-        <updated>2024-09-05T11:13:46.452Z</updated>
-        <content type="html"><![CDATA[02:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' 예린(YERIN) - Wavy | Mnet 240905 방송]]></title>
-        <id>https://tv.naver.com/v/60492762</id>
-        <link href="https://tv.naver.com/v/60492762"/>
-        <updated>2024-09-05T11:13:46.453Z</updated>
-        <content type="html"><![CDATA[03:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DRIPPIN - Weekend | Mnet 240905 방송]]></title>
-        <id>https://tv.naver.com/v/60492749</id>
-        <link href="https://tv.naver.com/v/60492749"/>
-        <updated>2024-09-05T11:13:46.454Z</updated>
-        <content type="html"><![CDATA[02:56]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['COMEBACK' 원위(ONEWE) - OFF ROAD | Mnet 240905 방송]]></title>
-        <id>https://tv.naver.com/v/60492357</id>
-        <link href="https://tv.naver.com/v/60492357"/>
-        <updated>2024-09-05T11:13:46.457Z</updated>
-        <content type="html"><![CDATA[03:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Loossemble(루셈블) - TTYL | Mnet 240905 방송]]></title>
-        <id>https://tv.naver.com/v/60492310</id>
-        <link href="https://tv.naver.com/v/60492310"/>
-        <updated>2024-09-05T11:13:46.458Z</updated>
-        <content type="html"><![CDATA[03:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['컴백 인터뷰' BOYNEXTDOOR (보이넥스트도어) | Mnet 240905 방송]]></title>
-        <id>https://tv.naver.com/v/60491679</id>
-        <link href="https://tv.naver.com/v/60491679"/>
-        <updated>2024-09-05T10:16:55.758Z</updated>
-        <content type="html"><![CDATA[05:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YOUNG POSSE (영파씨) - ATE THAT | Mnet 240905 방송]]></title>
-        <id>https://tv.naver.com/v/60491636</id>
-        <link href="https://tv.naver.com/v/60491636"/>
-        <updated>2024-09-05T10:16:55.758Z</updated>
-        <content type="html"><![CDATA[03:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['차차차' ZEROBASEONE 𝘷𝘴 NMIXX 𝘷𝘴 MC 멍또! 오늘은 내가 머니 왕💸👑 | Mnet 240905 방송]]></title>
-        <id>https://tv.naver.com/v/60491020</id>
-        <link href="https://tv.naver.com/v/60491020"/>
-        <updated>2024-09-05T10:16:55.760Z</updated>
-        <content type="html"><![CDATA[04:40]]></content>
     </entry>
 </feed>
