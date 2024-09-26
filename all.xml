@@ -2,8 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/mcountdown/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-09-26T09:17:33.134Z</updated>
+    <updated>2024-09-26T10:17:07.017Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[xikers (싸이커스) - Bittersweet | Mnet 240926 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/61539141</id>
+        <link href="https://tv.naver.com/v/61539141"/>
+        <updated>2024-09-26T10:17:06.393Z</updated>
+        <content type="html"><![CDATA[03:20]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['미니 팬미팅' NCT WISH (엔시티 위시) (with NCTzen♥︎) | Mnet 240926 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/61539132</id>
+        <link href="https://tv.naver.com/v/61539132"/>
+        <updated>2024-09-26T10:17:06.393Z</updated>
+        <content type="html"><![CDATA[05:31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' FIFTY FIFTY (피프티피프티) - SOS | Mnet 240926 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/61538535</id>
+        <link href="https://tv.naver.com/v/61538535"/>
+        <updated>2024-09-26T10:17:06.395Z</updated>
+        <content type="html"><![CDATA[04:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MADEIN (메이딘) - UNO | Mnet 240926 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/61538172</id>
+        <link href="https://tv.naver.com/v/61538172"/>
+        <updated>2024-09-26T10:17:06.395Z</updated>
+        <content type="html"><![CDATA[02:58]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['컴백 인터뷰' FIFTY FIFTY (피프티피프티) | Mnet 240926 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/61537929</id>
+        <link href="https://tv.naver.com/v/61537929"/>
+        <updated>2024-09-26T10:17:06.395Z</updated>
+        <content type="html"><![CDATA[04:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GENBLUE - COCOCO | Mnet 240926 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/61537924</id>
+        <link href="https://tv.naver.com/v/61537924"/>
+        <updated>2024-09-26T10:17:06.397Z</updated>
+        <content type="html"><![CDATA[02:41]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pagaehun (박태훈) - 모의고사 | Mnet 240926 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/61537677</id>
+        <link href="https://tv.naver.com/v/61537677"/>
+        <updated>2024-09-26T10:17:06.399Z</updated>
+        <content type="html"><![CDATA[03:11]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BOYNEXTDOOR가 알려주는 이번 주 엠카운트다운 라인업은? (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/61414804</id>
@@ -24,54 +73,5 @@
         <link href="https://tv.naver.com/v/61156823"/>
         <updated>2024-09-19T11:13:27.374Z</updated>
         <content type="html"><![CDATA[03:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[가을 맞이 특집] aespa (에스파) - Supernova | Mnet 240919 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/61156339</id>
-        <link href="https://tv.naver.com/v/61156339"/>
-        <updated>2024-09-19T11:13:27.376Z</updated>
-        <content type="html"><![CDATA[03:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[가을 맞이 특집] ATEEZ (에이티즈) - WORK | Mnet 240919 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/61156333</id>
-        <link href="https://tv.naver.com/v/61156333"/>
-        <updated>2024-09-19T11:13:27.376Z</updated>
-        <content type="html"><![CDATA[02:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[가을 맞이 특집] LE SSERAFIM (르세라핌) - CRAZY | Mnet 240919 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/61156113</id>
-        <link href="https://tv.naver.com/v/61156113"/>
-        <updated>2024-09-19T11:13:27.376Z</updated>
-        <content type="html"><![CDATA[02:56]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[가을 맞이 특집] RIIZE (라이즈) - Boom Boom Bass | Mnet 240919 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/61156108</id>
-        <link href="https://tv.naver.com/v/61156108"/>
-        <updated>2024-09-19T11:13:27.377Z</updated>
-        <content type="html"><![CDATA[02:51]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[가을 맞이 특집] NMIXX (엔믹스) - 별별별 (See that?) | Mnet 240919 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/61155809</id>
-        <link href="https://tv.naver.com/v/61155809"/>
-        <updated>2024-09-19T11:13:27.377Z</updated>
-        <content type="html"><![CDATA[03:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[가을 맞이 특집] 성한빈 X 명재현 X 소희 - 파이팅 해야지 (원곡：부석순 (SEVENTEEN)) | Mnet 240919 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/61155206</id>
-        <link href="https://tv.naver.com/v/61155206"/>
-        <updated>2024-09-19T11:13:27.377Z</updated>
-        <content type="html"><![CDATA[03:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[가을 맞이 특집] DAY6 (데이식스) - 녹아내려요 | Mnet 240919 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/61155193</id>
-        <link href="https://tv.naver.com/v/61155193"/>
-        <updated>2024-09-19T11:13:27.379Z</updated>
-        <content type="html"><![CDATA[03:02]]></content>
     </entry>
 </feed>
