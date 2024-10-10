@@ -2,8 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/mcountdown/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-10T10:16:55.018Z</updated>
+    <updated>2024-10-10T11:13:37.104Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' 박재범 - Gimme A Minute (Feat. 청하) | Mnet 241010 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/62306540</id>
+        <link href="https://tv.naver.com/v/62306540"/>
+        <updated>2024-10-10T11:13:36.454Z</updated>
+        <content type="html"><![CDATA[03:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이창섭 - OLD TOWN | Mnet 241010 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/62306532</id>
+        <link href="https://tv.naver.com/v/62306532"/>
+        <updated>2024-10-10T11:13:36.457Z</updated>
+        <content type="html"><![CDATA[03:37]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' AB6IX (에이비식스) - NVKED | Mnet 241010 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/62305709</id>
+        <link href="https://tv.naver.com/v/62305709"/>
+        <updated>2024-10-10T11:13:36.457Z</updated>
+        <content type="html"><![CDATA[03:04]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YENA(최예나) - 네모네모 | Mnet 241010 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/62305707</id>
+        <link href="https://tv.naver.com/v/62305707"/>
+        <updated>2024-10-10T11:13:36.459Z</updated>
+        <content type="html"><![CDATA[03:09]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VANNER (배너) - Automatic | Mnet 241010 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/62305662</id>
+        <link href="https://tv.naver.com/v/62305662"/>
+        <updated>2024-10-10T11:13:36.460Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[더윈드 (The Wind) - 반가워, 나의 첫사랑 | Mnet 241010 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/62305214</id>
+        <link href="https://tv.naver.com/v/62305214"/>
+        <updated>2024-10-10T11:13:36.461Z</updated>
+        <content type="html"><![CDATA[03:31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[더윈드 (The Wind) - 친구 사인 아닌 것 같아 | Mnet 241010 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/62305212</id>
+        <link href="https://tv.naver.com/v/62305212"/>
+        <updated>2024-10-10T11:13:36.463Z</updated>
+        <content type="html"><![CDATA[02:45]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['차차차' MC 샤인멍또캣 𝘷𝘴 VANNER  𝘷𝘴 FIFTY FIFTY ! 오늘은 내가 컬링 왕👑 | Mnet 241010 방송 (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/62305024</id>
@@ -24,54 +73,5 @@
         <link href="https://tv.naver.com/v/62304448"/>
         <updated>2024-10-10T10:16:54.227Z</updated>
         <content type="html"><![CDATA[04:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RESCENE (리센느) - LOVE ATTACK | Mnet 241010 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/62304037</id>
-        <link href="https://tv.naver.com/v/62304037"/>
-        <updated>2024-10-10T10:16:54.227Z</updated>
-        <content type="html"><![CDATA[03:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XODIAC (소디엑) - OUR DAYS | Mnet 241010 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/62304034</id>
-        <link href="https://tv.naver.com/v/62304034"/>
-        <updated>2024-10-10T10:16:54.227Z</updated>
-        <content type="html"><![CDATA[03:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어센트(ASC2NT) - Sweet Devil | Mnet 241010 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/62303841</id>
-        <link href="https://tv.naver.com/v/62303841"/>
-        <updated>2024-10-10T10:16:54.229Z</updated>
-        <content type="html"><![CDATA[03:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MADEIN (메이딘) - UNO | Mnet 241010 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/62303840</id>
-        <link href="https://tv.naver.com/v/62303840"/>
-        <updated>2024-10-10T10:16:54.233Z</updated>
-        <content type="html"><![CDATA[02:53]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3piece(쓰리피스) - 피어올라(Light up) | Mnet 241010 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/62303837</id>
-        <link href="https://tv.naver.com/v/62303837"/>
-        <updated>2024-10-10T10:16:54.234Z</updated>
-        <content type="html"><![CDATA[02:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FIFTY FIFTY가 알려주는 이번 주 엠카운트다운 라인업은? (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/62188005</id>
-        <link href="https://tv.naver.com/v/62188005"/>
-        <updated>2024-10-08T11:14:52.023Z</updated>
-        <content type="html"><![CDATA[01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' SUPER JUNIOR-D&E - Go High | Mnet 241003 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/61905224</id>
-        <link href="https://tv.naver.com/v/61905224"/>
-        <updated>2024-10-03T12:30:37.721Z</updated>
-        <content type="html"><![CDATA[03:01]]></content>
     </entry>
 </feed>
