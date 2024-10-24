@@ -2,22 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2024-10-24T11:13:05.700Z</updated>
+    <updated>2024-10-24T12:31:10.167Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' tripleS Visionary Vision - Hit the Floor | Mnet 241024 방송]]></title>
+        <id>https://tv.naver.com/v/63150089</id>
+        <link href="https://tv.naver.com/v/63150089"/>
+        <updated>2024-10-24T12:31:09.576Z</updated>
+        <content type="html"><![CDATA[03:10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ITZY - GOLD | Mnet 241024 방송]]></title>
+        <id>https://tv.naver.com/v/63150069</id>
+        <link href="https://tv.naver.com/v/63150069"/>
+        <updated>2024-10-24T12:31:09.577Z</updated>
+        <content type="html"><![CDATA[03:24]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['최초 공개' aespa - Whiplash | Mnet 241024 방송]]></title>
         <id>https://tv.naver.com/v/63150032</id>
         <link href="https://tv.naver.com/v/63150032"/>
         <updated>2024-10-24T11:13:05.093Z</updated>
         <content type="html"><![CDATA[04:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['SPECIAL STAGE' TEMPEST(템페스트) - MANIAC : Freaky Lab(원곡 : Stray Kids) | Mnet 241024 방송]]></title>
-        <id>https://tv.naver.com/v/63149352</id>
-        <link href="https://tv.naver.com/v/63149352"/>
-        <updated>2024-10-24T11:13:05.094Z</updated>
-        <content type="html"><![CDATA[03:58]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['먼슬리 엠카PICK' 2024년 엠카PICK 송 & 스테이지는? | Mnet 241024 방송]]></title>
@@ -48,6 +55,13 @@
         <content type="html"><![CDATA[02:53]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA['SPECIAL STAGE' TEMPEST(템페스트) - MANIAC : Freaky Lab(원곡 : Stray Kids) | Mnet 241024 방송]]></title>
+        <id>https://tv.naver.com/v/63149352</id>
+        <link href="https://tv.naver.com/v/63149352"/>
+        <updated>2024-10-24T11:13:05.094Z</updated>
+        <content type="html"><![CDATA[03:58]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['컴백 인터뷰' aespa (에스파) | Mnet 241024 방송]]></title>
         <id>https://tv.naver.com/v/63147815</id>
         <link href="https://tv.naver.com/v/63147815"/>
@@ -60,19 +74,5 @@
         <link href="https://tv.naver.com/v/63147770"/>
         <updated>2024-10-24T11:13:05.105Z</updated>
         <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['대한민국 N년차 챌린지' with KISS OF LIFE (키스오브라이프) | Mnet 241024 방송]]></title>
-        <id>https://tv.naver.com/v/63147765</id>
-        <link href="https://tv.naver.com/v/63147765"/>
-        <updated>2024-10-24T11:13:05.106Z</updated>
-        <content type="html"><![CDATA[01:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KISS OF LIFE - Get Loud | Mnet 241024 방송]]></title>
-        <id>https://tv.naver.com/v/63147508</id>
-        <link href="https://tv.naver.com/v/63147508"/>
-        <updated>2024-10-24T11:13:05.107Z</updated>
-        <content type="html"><![CDATA[02:57]]></content>
     </entry>
 </feed>
