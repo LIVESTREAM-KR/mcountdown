@@ -2,77 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2025-01-23T11:13:17.630Z</updated>
+    <updated>2025-01-23T12:31:26.655Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' GOT7 - PYTHON | Mnet 250123 방송]]></title>
+        <id>https://tv.naver.com/v/68771458</id>
+        <link href="https://tv.naver.com/v/68771458"/>
+        <updated>2025-01-23T12:31:26.010Z</updated>
+        <content type="html"><![CDATA[03:05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' 민니 ((여자)아이들) - HER | Mnet 250123 방송]]></title>
+        <id>https://tv.naver.com/v/68770885</id>
+        <link href="https://tv.naver.com/v/68770885"/>
+        <updated>2025-01-23T12:31:26.012Z</updated>
+        <content type="html"><![CDATA[03:41]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['컴백 인터뷰' GOT7 (갓세븐) | Mnet 250123 방송]]></title>
+        <id>https://tv.naver.com/v/68770528</id>
+        <link href="https://tv.naver.com/v/68770528"/>
+        <updated>2025-01-23T12:31:26.013Z</updated>
+        <content type="html"><![CDATA[04:28]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IVE - REBEL HEART | Mnet 250123 방송]]></title>
+        <id>https://tv.naver.com/v/68770524</id>
+        <link href="https://tv.naver.com/v/68770524"/>
+        <updated>2025-01-23T12:31:26.015Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' ZEROBASEONE - Doctor! Doctor! | Mnet 250123 방송]]></title>
+        <id>https://tv.naver.com/v/68770520</id>
+        <link href="https://tv.naver.com/v/68770520"/>
+        <updated>2025-01-23T12:31:26.017Z</updated>
+        <content type="html"><![CDATA[04:15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[브브걸(BBGIRLS) - LOVE 2 | Mnet 250123 방송]]></title>
+        <id>https://tv.naver.com/v/68770062</id>
+        <link href="https://tv.naver.com/v/68770062"/>
+        <updated>2025-01-23T12:31:26.019Z</updated>
+        <content type="html"><![CDATA[02:48]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['솔로 데뷔 인터뷰' 민니 ((여자)아이들) | Mnet 250123 방송]]></title>
+        <id>https://tv.naver.com/v/68770060</id>
+        <link href="https://tv.naver.com/v/68770060"/>
+        <updated>2025-01-23T12:31:26.021Z</updated>
+        <content type="html"><![CDATA[02:40]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['위클리 엠카PICK 스테이지' 1월 3주 위클리 엠카PICK 스테이지의 주인공은? | Mnet 250123 방송]]></title>
+        <id>https://tv.naver.com/v/68770059</id>
+        <link href="https://tv.naver.com/v/68770059"/>
+        <updated>2025-01-23T12:31:26.022Z</updated>
+        <content type="html"><![CDATA[01:21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[원어스(ONEUS) - IKUK | Mnet 250123 방송]]></title>
+        <id>https://tv.naver.com/v/68769758</id>
+        <link href="https://tv.naver.com/v/68769758"/>
+        <updated>2025-01-23T12:31:26.024Z</updated>
+        <content type="html"><![CDATA[04:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['COMEBACK' &TEAM - Yukiakari (Korean ver.) | Mnet 250123 방송]]></title>
         <id>https://tv.naver.com/v/68768250</id>
         <link href="https://tv.naver.com/v/68768250"/>
         <updated>2025-01-23T11:13:16.897Z</updated>
         <content type="html"><![CDATA[03:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['COMEBACK' &TEAM - Deer Hunter (Korean ver.) | Mnet 250123 방송]]></title>
-        <id>https://tv.naver.com/v/68768239</id>
-        <link href="https://tv.naver.com/v/68768239"/>
-        <updated>2025-01-23T11:13:16.897Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['인터뷰' ZEROBASEONE (제로베이스원) | Mnet 250123 방송]]></title>
-        <id>https://tv.naver.com/v/68768232</id>
-        <link href="https://tv.naver.com/v/68768232"/>
-        <updated>2025-01-23T11:13:16.899Z</updated>
-        <content type="html"><![CDATA[03:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NCT WISH - Miracle | Mnet 250123 방송]]></title>
-        <id>https://tv.naver.com/v/68767752</id>
-        <link href="https://tv.naver.com/v/68767752"/>
-        <updated>2025-01-23T11:13:16.901Z</updated>
-        <content type="html"><![CDATA[03:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['COMEBACK' CIX(씨아이엑스) - THUNDER | Mnet 250123 방송]]></title>
-        <id>https://tv.naver.com/v/68767437</id>
-        <link href="https://tv.naver.com/v/68767437"/>
-        <updated>2025-01-23T11:13:16.903Z</updated>
-        <content type="html"><![CDATA[03:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['컴백 인터뷰' &TEAM (앤팀) | Mnet 250123 방송]]></title>
-        <id>https://tv.naver.com/v/68767430</id>
-        <link href="https://tv.naver.com/v/68767430"/>
-        <updated>2025-01-23T11:13:16.906Z</updated>
-        <content type="html"><![CDATA[02:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['HOT DEBUT' KickFlip(킥플립) - Mama Said (뭐가 되려고?) | Mnet 250123 방송]]></title>
-        <id>https://tv.naver.com/v/68767419</id>
-        <link href="https://tv.naver.com/v/68767419"/>
-        <updated>2025-01-23T11:13:16.908Z</updated>
-        <content type="html"><![CDATA[04:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['라이징M' KickFlip(킥플립) - 응 그래 | Mnet 250123 방송]]></title>
-        <id>https://tv.naver.com/v/68766860</id>
-        <link href="https://tv.naver.com/v/68766860"/>
-        <updated>2025-01-23T11:13:16.909Z</updated>
-        <content type="html"><![CDATA[04:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['차차차' GOT7 𝘷𝘴 RIIZE 𝘷𝘴 IVE! 오늘은 내가 치기치기 뱅뱅👑 | Mnet 250123 방송]]></title>
-        <id>https://tv.naver.com/v/68766538</id>
-        <link href="https://tv.naver.com/v/68766538"/>
-        <updated>2025-01-23T10:17:17.383Z</updated>
-        <content type="html"><![CDATA[05:51]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[n.SSign(엔싸인) - Love Potion (백일몽; 白日夢) | Mnet 250123 방송]]></title>
-        <id>https://tv.naver.com/v/68766520</id>
-        <link href="https://tv.naver.com/v/68766520"/>
-        <updated>2025-01-23T10:17:17.384Z</updated>
-        <content type="html"><![CDATA[03:25]]></content>
     </entry>
 </feed>
