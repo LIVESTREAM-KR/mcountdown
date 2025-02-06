@@ -2,76 +2,76 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/mcountdown/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-02-06T10:16:22.051Z</updated>
+    <updated>2025-02-06T11:13:00.166Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' RESCENE (리센느) - Glow Up | Mnet 250206 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/69523726</id>
+        <link href="https://tv.naver.com/v/69523726"/>
+        <updated>2025-02-06T11:12:59.537Z</updated>
+        <content type="html"><![CDATA[02:39]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['미니 팬미팅' IVE (아이브) (with DIVE♥) | Mnet 250206 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/69523375</id>
+        <link href="https://tv.naver.com/v/69523375"/>
+        <updated>2025-02-06T11:12:59.538Z</updated>
+        <content type="html"><![CDATA[04:51]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KickFlip(킥플립) - Mama Said (뭐가 되려고?) | Mnet 250206 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/69522868</id>
+        <link href="https://tv.naver.com/v/69522868"/>
+        <updated>2025-02-06T11:12:59.539Z</updated>
+        <content type="html"><![CDATA[03:18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KickFlip(킥플립) - 응 그래 | Mnet 250206 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/69522519</id>
+        <link href="https://tv.naver.com/v/69522519"/>
+        <updated>2025-02-06T11:12:59.542Z</updated>
+        <content type="html"><![CDATA[02:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['SPECIAL STAGE' 82MAJOR(82메이저) - 멋 (The Real) + 혀끝(Stuck) | Mnet 250206 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/69522512</id>
+        <link href="https://tv.naver.com/v/69522512"/>
+        <updated>2025-02-06T11:12:59.543Z</updated>
+        <content type="html"><![CDATA[03:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[다혜 - Cherry Road | Mnet 250206 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/69522155</id>
+        <link href="https://tv.naver.com/v/69522155"/>
+        <updated>2025-02-06T11:12:59.545Z</updated>
+        <content type="html"><![CDATA[02:43]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kandis(캔디스) - Playground | Mnet 250206 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/69521517</id>
+        <link href="https://tv.naver.com/v/69521517"/>
+        <updated>2025-02-06T11:12:59.549Z</updated>
+        <content type="html"><![CDATA[03:07]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['컴백 인터뷰' ALL(H)OURS(올아워즈) | Mnet 250206 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/69521519</id>
+        <link href="https://tv.naver.com/v/69521519"/>
+        <updated>2025-02-06T11:12:59.549Z</updated>
+        <content type="html"><![CDATA[03:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[피스트범프 (FISTBUMP) - 미저리 (MISERY) | Mnet 250206 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/69520975</id>
+        <link href="https://tv.naver.com/v/69520975"/>
+        <updated>2025-02-06T11:12:59.550Z</updated>
+        <content type="html"><![CDATA[03:16]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ZEROBASEONE이 알려주는 이번 주 엠카운트다운 라인업은? (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/69379133</id>
         <link href="https://tv.naver.com/v/69379133"/>
         <updated>2025-02-04T11:13:07.757Z</updated>
         <content type="html"><![CDATA[01:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[새해 목표 특집] 부석순 (SEVENTEEN) - 청바지 | Mnet 250130 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/69099265</id>
-        <link href="https://tv.naver.com/v/69099265"/>
-        <updated>2025-01-30T11:13:36.947Z</updated>
-        <content type="html"><![CDATA[02:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[새해 목표 특집] (여자)아이들 ((G)I-DLE) - Super Lady | Mnet 250130 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/69098945</id>
-        <link href="https://tv.naver.com/v/69098945"/>
-        <updated>2025-01-30T11:13:36.949Z</updated>
-        <content type="html"><![CDATA[03:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[새해 목표 특집] 도영 (DOYOUNG) - 새봄의 노래 (Beginning) | Mnet 250130 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/69098943</id>
-        <link href="https://tv.naver.com/v/69098943"/>
-        <updated>2025-01-30T11:13:36.951Z</updated>
-        <content type="html"><![CDATA[03:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[새해 목표 특집] BOYNEXTDOOR (보이넥스트도어) - Nice Guy | Mnet 250130 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/69098721</id>
-        <link href="https://tv.naver.com/v/69098721"/>
-        <updated>2025-01-30T11:13:36.951Z</updated>
-        <content type="html"><![CDATA[03:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[새해 목표 특집] izna (이즈나) - IZNA | Mnet 250130 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/69098725</id>
-        <link href="https://tv.naver.com/v/69098725"/>
-        <updated>2025-01-30T11:13:36.951Z</updated>
-        <content type="html"><![CDATA[02:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[새해 목표 특집] IVE (아이브) - REBEL HEART | Mnet 250130 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/69098715</id>
-        <link href="https://tv.naver.com/v/69098715"/>
-        <updated>2025-01-30T11:13:36.953Z</updated>
-        <content type="html"><![CDATA[03:24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[새해 목표 특집] Stray Kids (스트레이 키즈) - 특 | Mnet 250130 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/69098322</id>
-        <link href="https://tv.naver.com/v/69098322"/>
-        <updated>2025-01-30T10:16:02.542Z</updated>
-        <content type="html"><![CDATA[03:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[새해 목표 특집] aespa (에스파) - Supernova | Mnet 250130 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/69098121</id>
-        <link href="https://tv.naver.com/v/69098121"/>
-        <updated>2025-01-30T10:16:02.543Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[새해 목표 특집] 전소미 (JEON SOMI) - 금금금 | Mnet 250130 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/69098114</id>
-        <link href="https://tv.naver.com/v/69098114"/>
-        <updated>2025-01-30T10:16:02.544Z</updated>
-        <content type="html"><![CDATA[02:35]]></content>
     </entry>
 </feed>
