@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/mcountdown/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-02-10T07:15:39.626Z</updated>
+    <updated>2025-02-10T08:20:50.074Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[2월 1주 1위 'IVE'의 'REBEL HEART' 앵콜 무대! (Full ver.) (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/69737000</id>
+        <link href="https://tv.naver.com/v/69737000"/>
+        <updated>2025-02-10T08:20:49.430Z</updated>
+        <content type="html"><![CDATA[04:53]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[은혁(EUNHYUK) - UP N DOWN | Mnet 250206 방송 (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/69529947</id>
@@ -66,12 +73,5 @@
         <link href="https://tv.naver.com/v/69526085"/>
         <updated>2025-02-06T12:31:22.932Z</updated>
         <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' ALL(H)OURS(올아워즈) - GIMME GIMME | Mnet 250206 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/69525250</id>
-        <link href="https://tv.naver.com/v/69525250"/>
-        <updated>2025-02-06T12:31:22.934Z</updated>
-        <content type="html"><![CDATA[04:21]]></content>
     </entry>
 </feed>
