@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/mcountdown/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-02-25T08:21:19.824Z</updated>
+    <updated>2025-02-25T09:17:17.022Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[온앤오프 (ONF)가 알려주는 이번 주 엠카운트다운 라인업은? (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/70751982</id>
+        <link href="https://tv.naver.com/v/70751982"/>
+        <updated>2025-02-25T09:17:16.385Z</updated>
+        <content type="html"><![CDATA[01:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['최초 공개' 온앤오프 (ONF) - The Stranger | Mnet 250220 방송 (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/70449346</id>
@@ -66,12 +73,5 @@
         <link href="https://tv.naver.com/v/70448045"/>
         <updated>2025-02-20T11:13:41.157Z</updated>
         <content type="html"><![CDATA[04:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['NEXT WEEK' ZEROBASEONE (제로베이스원) | Mnet 250220 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/70448043</id>
-        <link href="https://tv.naver.com/v/70448043"/>
-        <updated>2025-02-20T11:13:41.159Z</updated>
-        <content type="html"><![CDATA[01:42]]></content>
     </entry>
 </feed>
