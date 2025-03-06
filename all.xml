@@ -2,8 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/mcountdown/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-03-06T09:17:59.878Z</updated>
+    <updated>2025-03-06T10:17:55.479Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA['차차차' 온앤오프(ONF) 𝘷𝘴 샤인멍또캣 𝘷𝘴 킥플립(KickFlip)!Mnet 30주년 기념 차차차 노래방🎤 | Mnet 250306 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/71361868</id>
+        <link href="https://tv.naver.com/v/71361868"/>
+        <updated>2025-03-06T10:17:54.711Z</updated>
+        <content type="html"><![CDATA[05:59]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NouerA (누에라) - N.I.N (New is Now) | Mnet 250306 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/71361493</id>
+        <link href="https://tv.naver.com/v/71361493"/>
+        <updated>2025-03-06T10:17:54.713Z</updated>
+        <content type="html"><![CDATA[03:15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['Mnet 30주년 축하 메시지' 태양, 은혁&신동, IVE, ZEROBASEONE, will.i.am | Mnet 250306 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/71360527</id>
+        <link href="https://tv.naver.com/v/71360527"/>
+        <updated>2025-03-06T10:17:54.715Z</updated>
+        <content type="html"><![CDATA[01:25]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['OPENING PERFORMANCE' ZEROBASEONE - Road Movie (Hiphop Ver.) | Mnet 250306 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/71359925</id>
+        <link href="https://tv.naver.com/v/71359925"/>
+        <updated>2025-03-06T10:17:54.715Z</updated>
+        <content type="html"><![CDATA[04:03]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hearts2Hearts가 알려주는 이번 주 엠카운트다운 라인업은? (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/71205743</id>
@@ -45,33 +73,5 @@
         <link href="https://tv.naver.com/v/70918440"/>
         <updated>2025-02-27T12:31:52.858Z</updated>
         <content type="html"><![CDATA[03:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' ZEROBASEONE - Devil Game | Mnet 250227 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/70918418</id>
-        <link href="https://tv.naver.com/v/70918418"/>
-        <updated>2025-02-27T12:31:52.860Z</updated>
-        <content type="html"><![CDATA[03:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EVNNE (이븐) - HOT MESS | Mnet 250227 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/70918408</id>
-        <link href="https://tv.naver.com/v/70918408"/>
-        <updated>2025-02-27T12:31:52.861Z</updated>
-        <content type="html"><![CDATA[02:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['미니 팬미팅' ZEROBASEONE (제로베이스원) (with ZEROSE♥) | Mnet 250227 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/70917774</id>
-        <link href="https://tv.naver.com/v/70917774"/>
-        <updated>2025-02-27T12:31:52.863Z</updated>
-        <content type="html"><![CDATA[06:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['SPECIAL STAGE' 성한빈 X 명재현 X 소희 - 이별공식 | Mnet 250227 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/70917397</id>
-        <link href="https://tv.naver.com/v/70917397"/>
-        <updated>2025-02-27T12:31:52.864Z</updated>
-        <content type="html"><![CDATA[03:39]]></content>
     </entry>
 </feed>
