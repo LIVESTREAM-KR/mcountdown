@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/659252/clip</id>
     <title>엠카운트다운</title>
-    <updated>2025-03-20T11:14:13.273Z</updated>
+    <updated>2025-03-20T12:31:27.973Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[슬기 (SEULGI) - Baby, Not Baby | Mnet 250320 방송]]></title>
+        <id>https://tv.naver.com/v/72345078</id>
+        <link href="https://tv.naver.com/v/72345078"/>
+        <updated>2025-03-20T12:31:27.311Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['단독 공개' 마크 (MARK) - +82 Pressin’ (Feat. 해찬) | Mnet 250320 방송]]></title>
+        <id>https://tv.naver.com/v/72343615</id>
+        <link href="https://tv.naver.com/v/72343615"/>
+        <updated>2025-03-20T12:31:27.312Z</updated>
+        <content type="html"><![CDATA[04:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' 더보이즈(THE BOYZ) - VVV | Mnet 250320 방송]]></title>
+        <id>https://tv.naver.com/v/72343219</id>
+        <link href="https://tv.naver.com/v/72343219"/>
+        <updated>2025-03-20T12:31:27.315Z</updated>
+        <content type="html"><![CDATA[04:28]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[예지 (ITZY) - Air | Mnet 250320 방송]]></title>
+        <id>https://tv.naver.com/v/72343214</id>
+        <link href="https://tv.naver.com/v/72343214"/>
+        <updated>2025-03-20T12:31:27.315Z</updated>
+        <content type="html"><![CDATA[03:14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['컴백 인터뷰' 더보이즈 (THE BOYZ) | Mnet 250320 방송]]></title>
+        <id>https://tv.naver.com/v/72343211</id>
+        <link href="https://tv.naver.com/v/72343211"/>
+        <updated>2025-03-20T12:31:27.316Z</updated>
+        <content type="html"><![CDATA[02:51]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TREASURE(트레저) - YELLOW | Mnet 250320 방송]]></title>
+        <id>https://tv.naver.com/v/72342621</id>
+        <link href="https://tv.naver.com/v/72342621"/>
+        <updated>2025-03-20T12:31:27.318Z</updated>
+        <content type="html"><![CDATA[03:18]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['차차차' 호시X우지 𝘷𝘴 TREASURE 𝘷𝘴 Hearts2Hearts 𝘷𝘴 KiiiKiii! 오늘의 퀴즈왕은? | Mnet 250320 방송]]></title>
         <id>https://tv.naver.com/v/72342246</id>
@@ -32,47 +74,5 @@
         <link href="https://tv.naver.com/v/72341555"/>
         <updated>2025-03-20T11:14:12.618Z</updated>
         <content type="html"><![CDATA[03:44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['SPECIAL STAGE' 마크 (MARK) - 프락치 (Fraktsiya) (Feat. 이영지) | Mnet 250320 방송]]></title>
-        <id>https://tv.naver.com/v/72341236</id>
-        <link href="https://tv.naver.com/v/72341236"/>
-        <updated>2025-03-20T11:14:12.621Z</updated>
-        <content type="html"><![CDATA[04:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['컴백 인터뷰' STAYC(스테이씨) | Mnet 250320 방송]]></title>
-        <id>https://tv.naver.com/v/72341232</id>
-        <link href="https://tv.naver.com/v/72341232"/>
-        <updated>2025-03-20T11:14:12.623Z</updated>
-        <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['COMEBACK' LE SSERAFIM - HOT | Mnet 250320 방송]]></title>
-        <id>https://tv.naver.com/v/72340734</id>
-        <link href="https://tv.naver.com/v/72340734"/>
-        <updated>2025-03-20T11:14:12.624Z</updated>
-        <content type="html"><![CDATA[03:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['COMEBACK' LE SSERAFIM - Come Over | Mnet 250320 방송]]></title>
-        <id>https://tv.naver.com/v/72340373</id>
-        <link href="https://tv.naver.com/v/72340373"/>
-        <updated>2025-03-20T11:14:12.626Z</updated>
-        <content type="html"><![CDATA[02:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['COMEBACK' 에일리(Ailee) - MMI | Mnet 250320 방송]]></title>
-        <id>https://tv.naver.com/v/72340368</id>
-        <link href="https://tv.naver.com/v/72340368"/>
-        <updated>2025-03-20T11:14:12.627Z</updated>
-        <content type="html"><![CDATA[02:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['컴백 인터뷰' NMIXX (엔믹스) | Mnet 250320 방송]]></title>
-        <id>https://tv.naver.com/v/72339873</id>
-        <link href="https://tv.naver.com/v/72339873"/>
-        <updated>2025-03-20T11:14:12.628Z</updated>
-        <content type="html"><![CDATA[03:14]]></content>
     </entry>
 </feed>
