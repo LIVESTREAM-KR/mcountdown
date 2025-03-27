@@ -2,8 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/mcountdown/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-03-27T09:18:37.602Z</updated>
+    <updated>2025-03-27T10:19:02.820Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA['최초 공개' KiiiKiii - BTG | Mnet 250327 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/72859895</id>
+        <link href="https://tv.naver.com/v/72859895"/>
+        <updated>2025-03-27T10:19:02.097Z</updated>
+        <content type="html"><![CDATA[03:33]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[더윈드(The Wind) - Only One | Mnet 250327 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/72859884</id>
+        <link href="https://tv.naver.com/v/72859884"/>
+        <updated>2025-03-27T10:19:02.097Z</updated>
+        <content type="html"><![CDATA[02:58]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['차차차' 치욕! 꽃미남 아롱사태! 오늘의 타겟은? 더보이즈, TREASURE, MC 성한빈 | Mnet 250327 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/72859486</id>
+        <link href="https://tv.naver.com/v/72859486"/>
+        <updated>2025-03-27T10:19:02.098Z</updated>
+        <content type="html"><![CDATA[05:39]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SAY MY NAME - ShaLala | Mnet 250327 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/72858868</id>
+        <link href="https://tv.naver.com/v/72858868"/>
+        <updated>2025-03-27T10:19:02.099Z</updated>
+        <content type="html"><![CDATA[02:59]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['컴백 인터뷰' KiiiKiii (키키) | Mnet 250327 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/72858550</id>
+        <link href="https://tv.naver.com/v/72858550"/>
+        <updated>2025-03-27T10:19:02.099Z</updated>
+        <content type="html"><![CDATA[02:58]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['DEBUT' NEWBEAT - Flip the Coin | Mnet 250327 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/72858278</id>
+        <link href="https://tv.naver.com/v/72858278"/>
+        <updated>2025-03-27T10:19:02.101Z</updated>
+        <content type="html"><![CDATA[03:09]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ONE OR EIGHT - DSTM | Mnet 250327 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/72858029</id>
+        <link href="https://tv.naver.com/v/72858029"/>
+        <updated>2025-03-27T10:19:02.102Z</updated>
+        <content type="html"><![CDATA[02:55]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NouerA (누에라) -  N.I.N (New is Now) | Mnet 250327 방송 (엠카운트다운)]]></title>
+        <id>https://tv.naver.com/v/72857601</id>
+        <link href="https://tv.naver.com/v/72857601"/>
+        <updated>2025-03-27T10:19:02.103Z</updated>
+        <content type="html"><![CDATA[03:15]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NMIXX가 알려주는 이번 주 엠카운트다운 라인업은? (엠카운트다운)]]></title>
         <id>https://tv.naver.com/v/72695399</id>
@@ -17,61 +73,5 @@
         <link href="https://tv.naver.com/v/72345078"/>
         <updated>2025-03-20T12:31:27.311Z</updated>
         <content type="html"><![CDATA[03:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['단독 공개' 마크 (MARK) - +82 Pressin’ (Feat. 해찬) | Mnet 250320 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/72343615</id>
-        <link href="https://tv.naver.com/v/72343615"/>
-        <updated>2025-03-20T12:31:27.312Z</updated>
-        <content type="html"><![CDATA[04:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' 더보이즈(THE BOYZ) - VVV | Mnet 250320 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/72343219</id>
-        <link href="https://tv.naver.com/v/72343219"/>
-        <updated>2025-03-20T12:31:27.315Z</updated>
-        <content type="html"><![CDATA[04:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[예지 (ITZY) - Air | Mnet 250320 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/72343214</id>
-        <link href="https://tv.naver.com/v/72343214"/>
-        <updated>2025-03-20T12:31:27.315Z</updated>
-        <content type="html"><![CDATA[03:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['컴백 인터뷰' 더보이즈 (THE BOYZ) | Mnet 250320 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/72343211</id>
-        <link href="https://tv.naver.com/v/72343211"/>
-        <updated>2025-03-20T12:31:27.316Z</updated>
-        <content type="html"><![CDATA[02:51]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TREASURE(트레저) - YELLOW | Mnet 250320 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/72342621</id>
-        <link href="https://tv.naver.com/v/72342621"/>
-        <updated>2025-03-20T12:31:27.318Z</updated>
-        <content type="html"><![CDATA[03:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['차차차' 호시X우지 𝘷𝘴 TREASURE 𝘷𝘴 Hearts2Hearts 𝘷𝘴 KiiiKiii! 오늘의 퀴즈왕은? | Mnet 250320 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/72342246</id>
-        <link href="https://tv.naver.com/v/72342246"/>
-        <updated>2025-03-20T11:14:12.613Z</updated>
-        <content type="html"><![CDATA[06:47]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' STAYC(스테이씨) - BEBE | Mnet 250320 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/72342238</id>
-        <link href="https://tv.naver.com/v/72342238"/>
-        <updated>2025-03-20T11:14:12.614Z</updated>
-        <content type="html"><![CDATA[03:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['최초 공개' NMIXX - KNOW ABOUT ME | Mnet 250320 방송 (엠카운트다운)]]></title>
-        <id>https://tv.naver.com/v/72342234</id>
-        <link href="https://tv.naver.com/v/72342234"/>
-        <updated>2025-03-20T11:14:12.616Z</updated>
-        <content type="html"><![CDATA[03:38]]></content>
     </entry>
 </feed>
